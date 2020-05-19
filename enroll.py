@@ -5,21 +5,23 @@ def create_form():
     """Creates a form
     """
     form_name = input("Enter the form name:  ")
-    question = request_questions()
-    save_form(form_name, question)
+    questions = request_questions()
+    save_form(form_name, questions)
 
 
 def request_questions():
     i = 0
-    question = []
+    questions = []
+    exit_while = "y"
     while True:
-        exit_while = input("Do you want to add another input (y/n)? ")
         if exit_while.lower() == "n":
             break
         else:
-            question.append(input("Enter question {}:".format(i + 1)))
+            question = input("Enter question {}:".format(i + 1))
+            questions.append(question)
             i += 1
-    return question
+        exit_while = input("Do you want to add another input (y/n)? ")
+    return questions
 
 
 def save_form(form_name, question):

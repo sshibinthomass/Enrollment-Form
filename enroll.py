@@ -4,7 +4,7 @@ import json
 def create_form():
     """Creates a form
     """
-    form_name = input("Enter the form name:  ")
+    form_name = input("Enter the form name:  \n\t")
     questions = request_questions()
     save_form(form_name, questions)
 
@@ -17,7 +17,7 @@ def request_questions():
         if exit_while.lower() == "n":
             break
         else:
-            question = input("Enter question {}:".format(i + 1))
+            question = input("Enter question {}:\n\t".format(i + 1))
             questions.append(question)
             i += 1
         exit_while = input("Do you want to add another input (y/n)? ")

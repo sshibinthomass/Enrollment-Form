@@ -1,16 +1,20 @@
-def text_question(question, validator=False):
-    user_input = input("Question")
-    if is_valid(user_input, qtype):
-        return user_input
-    else:
-        text_question(question,)
+import json
 
 
-def is_valid():
+def create_form():
+    """Creates a form
+    """
+    form_name = input("Enter the form name:  ")
+    questions = request_questions()
+    save_form(form_name, questions())
+
+
+def request_questions():
+    questions = input("Enter your name")
+    return questions
+
+
+def save_form(form_name, questions):
+    "Saves the form in json."
     pass
 
-
-def main():
-    question = get_questions()
-    for question in questions:
-        test_question(question.text, question.type)

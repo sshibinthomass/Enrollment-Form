@@ -2,17 +2,18 @@ import json
 
 
 def create_form():
-    """Creates a form
-    """
+    # Creates a form
     form_name = input("Enter the form name:  \n\t")
     questions = request_questions()
     save_form(form_name, questions)
 
 
 def request_questions():
+    # Save questions in JSON
     i = 0
     questions = []
     exit_while = "y"
+
     while True:
         if exit_while.lower() == "n":
             break
@@ -25,7 +26,7 @@ def request_questions():
 
 
 def save_form(form_name, question):
-    "Saves the form in json."
+    # Saves the form in json.
     with open(str(form_name) + ".json", "w") as f:
         json.dump(question, f, indent=2)
 

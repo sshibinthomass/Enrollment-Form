@@ -2,7 +2,7 @@ import json
 
 
 class enrollment:
-    def __init__(self):
+    def __init__(self, form_name):
         # Creates a form
         self.form_name = input("Enter the form name:  \n\t")
         question = self.question_type()
@@ -34,6 +34,3 @@ class enrollment:
         # Saves the form in json.
         with open(str(self.form_name) + ".json", "w") as f:
             json.dump(self.Questions, f, indent=2)
-
-
-person1 = enrollment()

@@ -1,0 +1,1001 @@
+ID,Name,Department,Core Competencies,Location
+EMP001,Katharina Vogel,Partnership & Ecosystem Management,Partner Certification Programs; Ecosystem Strategy; Multi-tier Partnership Models,Munich
+EMP002,Dr. Stefan Wagner,Cybersecurity & Vehicle Security,ISO/SAE 21434; Connected Device Security; Cyber Resilience Act Compliance,Munich
+EMP003,Michael Brandl,E/E Architecture & Interfaces,Electrical Interfaces; Electronic Interface Documentation; Vehicle Communication Protocols,Munich
+EMP004,Dr. Lisa Hoffmann,Business Model Innovation,Revenue Stream Development; Licensing Models; Subscription Business,Munich
+EMP005,Thomas Becker,Digital Platform Development,Partner Management Portals; API Development; Cloud-based Certification Systems,Unterschleissheim
+EMP006,Sandra Lehmann,Brand & Co-Marketing Strategy,Brand Licensing; Partner Marketing Programs; Made-for-Brand Initiatives,Munich
+EMP007,Laura Schröder,Quality Assurance & Certification,Certification Process Design; Test Catalog Development; Quality Standards,Dingolfing
+EMP008,Dr. Petra Schneider,Legal & Compliance,Product Liability; Trademark Rights; Partnership Agreements,Munich
+EMP009,Robert Zimmermann,Supplier & Partner Management,Third-party Supplier Integration; Partner Onboarding; Vendor Relationship,Regensburg
+EMP010,Dr. Claudia Mayer,Safety Engineering & Regulation,Safety-related Features; Type Approval; Regulatory Compliance,Munich
+EMP011,Jennifer Bauer,Customer Experience & Research,Customer Journey Mapping; Use-case Analysis; User Feedback Integration,Munich
+EMP012,Markus Klein,Mechanical Interface Engineering,Mechanical Specifications; Dimensional Standards; Mounting Interface Design,Landshut
+EMP013,Dr. Andreas Meier,IoT & Connected Devices,Connected Accessories; Device Authentication; IoT Security Standards,Munich
+EMP014,Nina Krause,Digital Transformation & Change,Partner Program Implementation; Organizational Change; Stakeholder Management,Munich
+EMP015,Felix Richter,Market Analysis & Pricing,Royalty Models; Market Potential Assessment; Competitive Pricing Strategy,Munich
+EMP016,Simone Walter,Product Management - Accessories,Accessory Portfolio Management; Product Roadmap; Bundle Strategy,Munich
+EMP017,Dr. Julia Richter,User Interface & Customer Tools,Configurator Design; Bundle Visualization; Customer-facing Portals,Munich
+EMP018,Patrick Neumann,Retail Systems Integration,Dealer IT Systems; Ordering Systems; Logistics Integration,Regensburg
+EMP019,Daniel Fischer,Data Analytics & KPIs,Performance Metrics; Take-rate Analysis; Sales Analytics,Munich
+EMP020,Dr. Monika Berger,Pricing & Revenue Optimization,Dynamic Pricing; Bundle Pricing; Margin Optimization,Munich
+EMP021,Tobias Richter,E-Commerce & Digital Sales,Online Configurators; Digital Ordering; E-commerce Platforms,Munich
+EMP022,Vanessa König,Dealer Relations & Support,Dealer Training; Sales Support; Retail Operations,Munich
+EMP023,Sebastian Wolf,Inventory & Availability Management,Stock Management; Part Availability; Supply Chain Visibility,Regensburg
+EMP024,Dr. Bianca Schwarz,Customer Segmentation & Personas,Use-case Definition; Customer Profiling; Behavioral Analysis,Munich
+EMP025,Christoph Zimmermann,Marketing Communications,Product Storytelling; Campaign Management; Accessory Marketing,Munich
+EMP026,Stefanie Huber,Bundle Configuration Logic,Part Number Management; Bundle Rules; Compatibility Matrices,Munich
+EMP027,Florian Krüger,Discount & Promotion Management,Bundle Discounts; Pricing Strategies; Promotional Campaigns,Munich
+EMP028,Dr. Angelika Braun,Process Optimization,Workflow Efficiency; Process Simplification; Time-to-Order Reduction,Munich
+EMP029,Caroline Schmitt,IT Systems Architecture,NBC Integration; System Interfaces; Backend Systems,Unterschleissheim
+EMP030,Ralf Becker,After-sales & Installation Services,Installation Cost Calculation; Labor Time Standards; Service Integration,Munich
+EMP031,Dr. Wolfgang Schneider,Mechatronics & Actuator Design,Comfort Actuators; Motor Design; Mechatronic Systems,Munich
+EMP032,Dominik Fischer,Embedded Software Development,LIN Protocol; Motor Control Software; Firmware Development,Unterschleissheim
+EMP033,Dr. Karin Weber,Modular System Architecture,Platform Standardization; Modular Design; Scalable Solutions,Munich
+EMP034,Benjamin Schulze,Economies of Scale Strategy,Cost Reduction; Volume Optimization; Standardization Benefits,Munich
+EMP035,Marco Klein,Electric Motor Engineering,Brushless Motors; Actuator Technology; Power Electronics,Dingolfing
+EMP036,Dr. Anja Meyer,Automotive Software Architecture,Software Modularity; Customization Frameworks; Function Libraries,Unterschleissheim
+EMP037,Philipp Wagner,Supplier Development & Sourcing,Motor Supplier Management; Competitive Bidding; Supplier Qualification,Munich
+EMP038,Dr. Martina Zimmermann,Systems Integration,Hardware-Software Integration; Control Unit Design; System Coordination,Munich
+EMP039,Christian Lehmann,Development Process Optimization,Synergy Exploitation; Development Cycle Reduction; Knowledge Management,Munich
+EMP040,Lukas Bauer,Industrial Applications Engineering,Cross-industry Solutions; B2B Product Development; OEM Partnerships,Munich
+EMP041,Dr. Gabriele Schäfer,ASIL & Functional Safety,Safety Integrity Levels; Safety-critical Systems; Risk Assessment,Munich
+EMP042,Manuel Krause,Validation & Testing,System Validation; Test Automation; Quality Verification,Dingolfing
+EMP043,Dr. Nicole Schmidt,Circular Economy & Sustainability,Recyclability; Modular Repair; Sustainable Design,Munich
+EMP044,Tim Meier,Tech Hub Collaboration,External Development Partners; Innovation Hubs; Technology Transfer,Munich
+EMP045,Oliver Richter,Cost Engineering,Target Costing; Cost Breakdown; Value Engineering,Munich
+EMP046,Dr. Heike Braun,Requirement Engineering,Requirements Management; Specification Development; Stakeholder Alignment,Munich
+EMP047,Kevin Schneider,Software Licensing & IP,In-house Software; IP Strategy; External Licensing,Munich
+EMP048,Sven Hoffmann,Purchasing Strategy,Component Sourcing; Volume Negotiation; Supplier Consolidation,Munich
+EMP049,Dr. Renate Müller,Interior Components Engineering,Seat Mechanisms; Adjustment Systems; Comfort Features,Munich
+EMP050,Dennis Klein,Control Systems Design,Motor Controllers; Actuator Control; Feedback Systems,Dingolfing
+EMP051,Matthias Lange,Project Management - Innovation,Pilot Projects; Cross-functional Coordination; Timeline Management,Munich
+EMP052,Dr. Sabine Koch,Material Science - Plastics,Polymer Components; Material Selection; Durability Testing,Landshut
+EMP053,Alexander Graf,Digital Product Strategy,Product Vision; Digital Roadmaps; Technology Adoption,Munich
+EMP054,Dr. Ulrike Becker,Acoustic Engineering,Motor Noise Reduction; NVH Optimization; Quiet Operation,Munich
+EMP055,Fabian Weber,API & Integration Services,System APIs; Third-party Integration; Middleware Development,Unterschleissheim
+EMP056,Dr. Ingrid Schröder,Sensor Technology,Position Sensors; Feedback Systems; Sensor Integration,Munich
+EMP057,Jonas Bauer,Manufacturing Engineering,Production Processes; Assembly Methods; Manufacturing Efficiency,Dingolfing
+EMP058,Dr. Brigitte Schulz,Electromagnetic Compatibility,EMC Testing; Interference Prevention; Compliance Standards,Munich
+EMP059,Marcel Hoffmann,DevOps & Continuous Integration,CI/CD Pipelines; Automated Testing; Release Management,Unterschleissheim
+EMP060,Dr. Ursula Meyer,Power Electronics,Motor Drivers; Power Management; Efficiency Optimization,Dingolfing
+EMP061,Robin Schmidt,User Documentation,Technical Documentation; User Guides; Installation Manuals,Munich
+EMP062,Dr. Hildegard Becker,Thermal Management - Motors,Heat Dissipation; Thermal Design; Temperature Monitoring,Dingolfing
+EMP063,Nils Krause,Performance Engineering,Load Testing; System Performance; Optimization,Unterschleissheim
+EMP064,Dr. Elfriede Weber,Material Testing & Validation,Component Testing; Durability Analysis; Failure Analysis,Landshut
+EMP065,Jannik Richter,Service Design,After-sales Support; Maintenance Concepts; Service Documentation,Munich
+EMP066,Dr. Gerda Schneider,Crystallography & Materials,Material Structure; Component Analysis; Quality Control,Landshut
+EMP067,Leon Müller,Cloud Infrastructure,Scalable Systems; Cloud Architecture; Infrastructure Management,Unterschleissheim
+EMP068,Dr. Irmgard Koch,Thermodynamics,Energy Efficiency; Heat Transfer; Thermal Systems,Dingolfing
+EMP069,Paul Fischer,Product Owner - Digital,Backlog Management; Feature Prioritization; Stakeholder Communication,Munich
+EMP070,Dr. Waltraud Hoffmann,Microscopy & Analysis,Component Inspection; Surface Analysis; Quality Assurance,Landshut
+EMP071,Erik Bauer,Data Engineering,Data Pipelines; Analytics Infrastructure; Big Data Processing,Munich
+EMP072,Dr. Gertrud Schäfer,Rheology & Flow,Material Behavior; Flow Analysis; Process Optimization,Landshut
+EMP073,Moritz Klein,Information Security,Data Protection; Security Architecture; Vulnerability Management,Unterschleissheim
+EMP074,Dr. Margarete Wagner,Chemical Engineering,Material Chemistry; Process Chemistry; Quality Standards,Landshut
+EMP075,Niklas Zimmermann,Machine Learning Engineering,Predictive Maintenance; Anomaly Detection; ML Models,Munich
+EMP076,Dr. Hilde Braun,Multi-sensor Integration,Sensor Fusion; Data Integration; Signal Processing,Munich
+EMP077,Julian Schulz,Business Analysis,Requirements Analysis; Process Modeling; Gap Analysis,Munich
+EMP078,Dr. Lieselotte Meier,Energy Harvesting,Power Generation; Energy Recovery; Efficiency Systems,Munich
+EMP079,Felix Hartmann,Natural Language Processing,Text Analysis; Documentation Processing; AI Applications,Munich
+EMP080,Dr. Edeltraud Schmidt,Metallurgy,Alloy Development; Material Properties; Heat Treatment,Landshut
+EMP081,Noah Becker,Computer Vision,Image Recognition; Visual Inspection; Quality Control,Munich
+EMP082,Dr. Frieda Hoffmann,Surface Engineering,Coating Technology; Surface Treatment; Protection Systems,Landshut
+EMP083,Elias Müller,Robotics & Automation,Automated Assembly; Robot Programming; Manufacturing Automation,Dingolfing
+EMP084,Dr. Rosa Weber,Analytical Chemistry,Chemical Analysis; Quality Testing; Material Characterization,Landshut
+EMP085,Luca Fischer,Edge Computing,On-device Processing; Edge Analytics; Distributed Systems,Unterschleissheim
+EMP086,Dr. Martha Schneider,Tribology,Friction Analysis; Wear Mechanisms; Lubrication Systems,Dingolfing
+EMP087,Simon Bauer,AI & Predictive Analytics,Forecasting; Pattern Recognition; Data Science,Munich
+EMP088,Dr. Käthe Koch,Surface Finishing,Electroplating; Coating Processes; Quality Control,Landshut
+EMP089,David Klein,Recommendation Systems,Personalization; Product Recommendations; ML Algorithms,Munich
+EMP090,Dr. Hedwig Schäfer,Mass Spectrometry,Material Analysis; Chemical Testing; Quality Assurance,Landshut
+EMP091,Jakob Zimmermann,3D Visualization,Product Visualization; CAD Integration; Virtual Prototyping,Munich
+EMP092,Dr. Lotte Braun,Adhesion Technology,Bonding Systems; Assembly Methods; Material Joining,Landshut
+EMP093,Luis Richter,Microservices Architecture,Distributed Systems; Service Design; API Management,Unterschleissheim
+EMP094,Dr. Hermine Meier,Powder Metallurgy,Metal Components; Sintering Processes; Manufacturing,Landshut
+EMP095,Tom Schulz,Time Series Analysis,Trend Analysis; Forecasting; Statistical Modeling,Munich
+EMP096,Dr. Berta Wagner,Polymer Processing,Injection Molding; Material Processing; Component Manufacturing,Landshut
+EMP097,Anton Hoffmann,Knowledge Management,Documentation Systems; Knowledge Transfer; Best Practices,Munich
+EMP098,Dr. Alma Schmidt,Surface Science,Interface Analysis; Thin Films; Material Properties,Landshut
+EMP099,Emil Fischer,Reinforcement Learning,Optimization Algorithms; Control Systems; AI Applications,Munich
+EMP100,Dr. Emma Becker,Failure Analysis,Root Cause Analysis; Component Testing; Quality Investigation,Landshut
+EMP1000,Nina Lehmann,Manufacturing Engineering,Co-Marketing Programs; Quality Standards; Trademark & Labeling,Leipzig
+EMP101,Oskar Müller,Speech Recognition,Voice Control; Natural Language; Audio Processing,Munich
+EMP102,Dr. Ida Weber,Wear Testing,Durability Testing; Component Validation; Lifetime Prediction,Dingolfing
+EMP103,Theo Schneider,Generative AI,AI Applications; Automation; Content Generation,Munich
+EMP104,Dr. Else Koch,Thermal Analysis,Material Properties; Temperature Behavior; Testing Methods,Landshut
+EMP105,Bruno Klein,Edge AI,On-device Intelligence; Model Optimization; Embedded AI,Munich
+EMP106,Dr. Olga Schäfer,Composite Materials,Advanced Materials; Lightweight Design; Material Development,Landshut
+EMP107,Hugo Zimmermann,Distributed Learning,Federated Systems; Privacy-preserving AI; Distributed Computing,Munich
+EMP108,Dr. Meta Braun,Fatigue Analysis,Cyclic Loading; Lifetime Prediction; Structural Analysis,Dingolfing
+EMP109,Karl Richter,Explainable AI,Model Transparency; Interpretability; AI Ethics,Munich
+EMP110,Dr. Lina Meier,Joining Technology,Welding; Assembly Methods; Manufacturing Processes,Landshut
+EMP111,Franz Schulz,AI Safety & Governance,Risk Management; Safety Constraints; Compliance,Munich
+EMP112,Dr. Minna Wagner,Coating Technology,Paint Systems; Surface Protection; Application Methods,Landshut
+EMP113,Johann Hoffmann,Multi-modal AI,Cross-modal Learning; Data Fusion; Advanced AI,Munich
+EMP114,Dr. Thea Schmidt,Metal Forming,Sheet Metal; Forming Processes; Manufacturing Engineering,Dingolfing
+EMP115,Georg Fischer,Prompt Engineering,AI Optimization; Language Models; AI Applications,Munich
+EMP116,Dr. Dora Becker,Stress Analysis,Structural Testing; Component Analysis; Engineering Analysis,Landshut
+EMP117,Heinrich Müller,AI Governance,Model Management; Version Control; Compliance Systems,Munich
+EMP118,Dr. Clara Weber,Polymer Science,Material Development; Aging Analysis; Polymer Engineering,Landshut
+EMP119,Friedrich Schneider,Synthetic Data,Data Augmentation; Privacy Protection; AI Training,Munich
+EMP120,Dr. Agnes Koch,Additive Manufacturing,3D Printing; Rapid Prototyping; Advanced Manufacturing,Landshut
+EMP121,Wilhelm Klein,Active Learning,Data Labeling; Sample Selection; ML Optimization,Munich
+EMP122,Dr. Paula Schäfer,Non-destructive Testing,Quality Inspection; Defect Detection; Testing Methods,Landshut
+EMP123,Ludwig Zimmermann,Transfer Learning,Domain Adaptation; Model Fine-tuning; AI Applications,Munich
+EMP124,Dr. Maria Braun,Electrochemistry,Battery Systems; Electrochemical Testing; Energy Storage,Munich
+EMP125,Otto Richter,Anomaly Detection,Outlier Detection; Quality Monitoring; AI Applications,Munich
+EMP126,Dr. Anna Meier,Casting Technology,Metal Casting; Manufacturing Processes; Component Production,Landshut
+EMP127,Ernst Schulz,Causal Inference,Statistical Analysis; Causal Models; Data Science,Munich
+EMP128,Dr. Sophie Wagner,Surface Treatment,Component Finishing; Surface Engineering; Quality Enhancement,Landshut
+EMP129,Walter Hoffmann,Graph Neural Networks,Network Analysis; Relationship Modeling; Advanced AI,Munich
+EMP130,Dr. Johanna Schmidt,Statistical Process Control,Quality Engineering; Process Monitoring; Six Sigma,Dingolfing
+EMP131,Richard Fischer,Attention Mechanisms,Transformer Models; Deep Learning; AI Architecture,Munich
+EMP132,Dr. Elisabeth Becker,Reliability Engineering,FMEA; Reliability Testing; Quality Assurance,Dingolfing
+EMP133,Arthur Müller,Few-shot Learning,Meta-learning; Model Adaptation; AI Research,Munich
+EMP134,Dr. Helene Weber,Process Capability,Quality Metrics; Process Improvement; Manufacturing Excellence,Dingolfing
+EMP135,Hans Schneider,Zero-shot Learning,Transfer Learning; Novel Tasks; AI Applications,Munich
+EMP136,Dr. Marie Koch,Tolerance Management,GD&T; Tolerance Analysis; Engineering Standards,Dingolfing
+EMP137,Paul Klein,Contrastive Learning,Representation Learning; Self-supervised Learning; AI Research,Munich
+EMP138,Dr. Luise Schäfer,Manufacturing Execution Systems,MES Implementation; Production Control; Shop Floor Management,Dingolfing
+EMP139,Gustav Zimmermann,Multimodal Fusion,Sensor Integration; Data Fusion; Advanced Processing,Munich
+EMP140,Dr. Charlotte Braun,Lean Manufacturing,Value Stream Mapping; Waste Reduction; Continuous Improvement,Dingolfing
+EMP141,Max Richter,Vision Transformers,Image Processing; Deep Learning; Computer Vision,Munich
+EMP142,Dr. Emilie Meier,Assembly Planning,Manufacturing Planning; Ergonomics; Process Design,Dingolfing
+EMP143,Albert Schulz,Diffusion Models,Generative AI; Image Generation; AI Research,Munich
+EMP144,Dr. Bertha Wagner,Tooling Design,Manufacturing Tools; Die Design; Production Engineering,Landshut
+EMP145,Viktor Hoffmann,Neural Architecture Search,AutoML; Model Optimization; AI Research,Munich
+EMP146,Dr. Amalie Schmidt,Production Scheduling,Capacity Planning; Optimization; Manufacturing Management,Dingolfing
+EMP147,Konrad Fischer,Model Compression,AI Optimization; Efficient Models; Edge Deployment,Munich
+EMP148,Dr. Henriette Becker,Workplace Design,Ergonomics; Layout Planning; Manufacturing Efficiency,Dingolfing
+EMP149,Theodor Müller,Continual Learning,Lifelong Learning; Model Adaptation; AI Research,Munich
+EMP150,Dr. Mathilde Weber,Industrial Engineering,Time Studies; Productivity; Process Analysis,Dingolfing
+EMP151,Bernhard Schneider,Meta-learning,Learning Algorithms; Task Adaptation; AI Research,Munich
+EMP152,Dr. Wilhelmina Koch,Factory Planning,Layout Design; Facility Planning; Manufacturing Strategy,Dingolfing
+EMP153,Erich Klein,Adversarial Training,Model Robustness; Security; AI Safety,Munich
+EMP154,Dr. Adelheid Schäfer,Automation Engineering,PLC Programming; Control Systems; Industrial Automation,Dingolfing
+EMP155,Alois Zimmermann,Self-supervised Learning,Representation Learning; Unsupervised Methods; AI Research,Munich
+EMP156,Dr. Kunigunde Braun,Maintenance Strategy,Preventive Maintenance; TPM; Asset Management,Dingolfing
+EMP157,Lorenz Richter,Multi-task Learning,Shared Representations; Task Relationships; AI Optimization,Munich
+EMP158,Dr. Rosina Meier,Equipment Engineering,Machine Selection; Installation; Commissioning,Dingolfing
+EMP159,Ignaz Schulz,Domain Adaptation,Transfer Learning; Cross-domain AI; Model Generalization,Munich
+EMP160,Dr. Leopoldine Wagner,Manufacturing Analytics,OEE Analysis; Performance Metrics; Data-driven Manufacturing,Dingolfing
+EMP161,Benedikt Hoffmann,Neural ODEs,Continuous Models; Advanced AI; Mathematical Modeling,Munich
+EMP162,Dr. Crescentia Schmidt,Production Cost Analysis,Cost Modeling; Investment Analysis; Financial Engineering,Dingolfing
+EMP163,Korbinian Fischer,Bayesian Deep Learning,Uncertainty Quantification; Probabilistic Models; AI Research,Munich
+EMP164,Dr. Notburga Becker,Supply Chain Optimization,Network Design; Logistics; Optimization,Regensburg
+EMP165,Xaver Müller,Neuro-symbolic AI,Hybrid Systems; Reasoning; Advanced AI,Munich
+EMP166,Dr. Veronika Weber,Procurement Strategy,Strategic Sourcing; Supplier Development; Purchasing,Regensburg
+EMP167,Rupert Schneider,Curriculum Learning,Training Strategies; Learning Optimization; AI Research,Munich
+EMP168,Dr. Walburga Koch,Logistics Planning,Warehouse Design; Material Handling; Distribution,Regensburg
+EMP169,Severin Klein,Energy-based Models,Generative Models; Energy Functions; AI Research,Munich
+EMP170,Dr. Genoveva Schäfer,Demand Planning,Forecasting; S&OP; Inventory Management,Regensburg
+EMP171,Kilian Zimmermann,Spiking Neural Networks,Neuromorphic Computing; Bio-inspired AI; Advanced Research,Munich
+EMP172,Dr. Notker Braun,Warehouse Management,WMS Implementation; Storage Optimization; Logistics,Regensburg
+EMP173,Wendelin Richter,Capsule Networks,Advanced Neural Networks; Part-whole Relationships; AI Research,Munich
+EMP174,Dr. Hildegunde Meier,Transportation Management,Route Optimization; Fleet Management; Logistics,Regensburg
+EMP175,Willibald Schulz,Mixture of Experts,Sparse Models; Gating Networks; AI Architecture,Munich
+EMP176,Dr. Ermengarde Wagner,Reverse Logistics,Returns Management; Circular Supply Chain; Sustainability,Regensburg
+EMP177,Gangolf Hoffmann,Neural Tangent Kernels,Theoretical AI; Kernel Methods; Advanced Research,Munich
+EMP178,Dr. Mechtild Schmidt,Risk Management,Supply Risk; Business Continuity; Risk Mitigation,Regensburg
+EMP179,Ansgar Fischer,Hypernetworks,Meta-networks; Dynamic Architecture; AI Research,Munich
+EMP180,Dr. Sieglinde Becker,Supplier Quality Management,Supplier Audits; Performance Monitoring; Quality Assurance,Regensburg
+EMP181,Wunibald Müller,Neural Architecture Design,Network Design; Architecture Principles; AI Engineering,Munich
+EMP182,Dr. Raimund Weber,Global Sourcing,International Procurement; Trade Compliance; Strategic Sourcing,Regensburg
+EMP183,Adalbert Kraus,Blockchain Applications,Distributed Systems; Smart Contracts; Technology Innovation,Munich
+EMP184,Dr. Brunhilde Stein,Corrosion Protection,Material Protection; Coating Systems; Durability,Landshut
+EMP185,Berthold Fuchs,Quantum Computing,Quantum Algorithms; Advanced Computing; Future Technologies,Munich
+EMP186,Dr. Kunigunde Vogel,Vibration Analysis,NVH Testing; Modal Analysis; Structural Dynamics,Munich
+EMP187,Dietrich Maier,Augmented Reality,AR Applications; Visualization; Digital Tools,Munich
+EMP188,Dr. Edeltraud Huber,Spectroscopy,Material Analysis; Chemical Testing; Quality Control,Landshut
+EMP189,Egon Schuster,Virtual Reality,VR Applications; Simulation; Training Systems,Munich
+EMP190,Dr. Friedegunde Lehmann,Microscopy,Material Characterization; Surface Analysis; Quality Testing,Landshut
+EMP191,Gottfried Roth,5G Connectivity,Network Technology; V2X Communication; Connected Systems,Unterschleissheim
+EMP192,Dr. Gisela Neumann,Chromatography,Separation Techniques; Analytical Chemistry; Quality Testing,Landshut
+EMP193,Hartmut Berger,Biometric Systems,Sensor Technology; Authentication; Safety Features,Munich
+EMP194,Dr. Hedwig Zimmermann,Electroplating,Surface Finishing; Coating Technology; Process Control,Landshut
+EMP195,Ingo Scholz,3D Printing,Additive Manufacturing; Prototyping; Advanced Manufacturing,Munich
+EMP196,Dr. Irmgard Fischer,Powder Technology,Metal Powders; Material Processing; Component Manufacturing,Landshut
+EMP197,Justus Herrmann,Conversational AI,Chatbots; NLU; Dialog Systems,Munich
+EMP198,Dr. Kunigunde Bauer,Adhesion Science,Bonding Technology; Material Joining; Assembly Methods,Landshut
+EMP199,Leopold Schäfer,IoT Security,Device Security; Authentication; Security Protocols,Unterschleissheim
+EMP200,Dr. Mechthild Wagner,Failure Mechanics,Material Failure; Damage Analysis; Component Testing,Landshut
+EMP201,Stefan Scholz,Partner Certification & Ecosystem,Trademark & Labeling; API Management; Cyber Resilience Act Compliance; ISO/SAE 21434,Unterschleissheim
+EMP202,Moritz Krüger,Partner Certification & Ecosystem,API Management; Interface Documentation; Ecosystem Strategy; Partner Certification Programs,Landshut
+EMP203,Katrin Vogel,Partner Certification & Ecosystem,Partner Portals; Royalty Models; Trademark & Labeling; Ecosystem Strategy,Leipzig
+EMP204,Felix Wolf,Partner Certification & Ecosystem,Partner Certification Programs; Co-Marketing Programs; Interface Documentation; Ecosystem Strategy,Stuttgart
+EMP205,Hannes Hofmann,Partner Certification & Ecosystem,Cyber Resilience Act Compliance; Interface Documentation; ISO/SAE 21434; API Management,Eisenach
+EMP206,Philipp Bauer,Retail Systems Integration,Availability & Pricing Transparency; Configurator UX; Bundle Configuration Logic; Ordering Automation,Landshut
+EMP207,Wiebke Bauer,Retail Systems Integration,Discount & Promotion Management; Ordering Automation; NBC Integration; Dealer IT Systems,Dingolfing
+EMP208,Paul Zimmermann,Retail Systems Integration,Configurator UX; Ordering Automation; NBC Integration; Bundle Configuration Logic,Munich
+EMP209,Xenia Kraus,Retail Systems Integration,Stock Visibility; Bundle Configuration Logic; Configurator UX; Availability & Pricing Transparency,Regensburg
+EMP210,Sofia Meyer,Retail Systems Integration,Ordering Automation; Configurator UX; Part Number Management; Sales Analytics,Landshut
+EMP211,Stefan Lehmann,Circular Economy & Sustainability,Sustainability KPIs; Demand-driven Disassembly; Digital Twin for Components; Reuse Process Automation,Regensburg
+EMP212,Laura Schmitz,Circular Economy & Sustainability,Reuse Process Automation; Predictive Disassembly; Demand-driven Disassembly; Sustainability KPIs,Munich
+EMP213,Oskar Berger,Circular Economy & Sustainability,Predictive Disassembly; Parts Categorization; Parsdorf Storage Optimization; Reuse Process Automation,Stuttgart
+EMP214,Vanessa Beck,Circular Economy & Sustainability,Parts Categorization; Sustainability KPIs; Fleet Development Components; Predictive Disassembly,Eisenach
+EMP215,Zoe Schmitz,Circular Economy & Sustainability,Fleet Development Components; Demand-driven Disassembly; Predictive Disassembly; Digital Twin for Components,Regensburg
+EMP216,Xaver Fiedler,Mechatronics & Actuators,LIN Protocol; Modular Actuator Platform; Economies of Scale; Mechatronic System Design,Berlin
+EMP217,Laura Schmidt,Mechatronics & Actuators,Mechatronic System Design; Standardized Interfaces; Economies of Scale; NVH Optimization,Leipzig
+EMP218,Katrin Arnold,Mechatronics & Actuators,Power Electronics; NVH Optimization; Hardware-Software Co-Design; LIN Protocol,Dingolfing
+EMP219,Katharina Braun,Mechatronics & Actuators,Hardware-Software Co-Design; Embedded Motor Control; Power Electronics; Standardized Interfaces,Stuttgart
+EMP220,Erik Meyer,Mechatronics & Actuators,Embedded Motor Control; Hardware-Software Co-Design; Power Electronics; Economies of Scale,Munich
+EMP221,Robin Hofmann,Digital Platform & Portals,Economies of Scale; Power Electronics; Risk Assessment; Cost Modeling,Stuttgart
+EMP222,Marlene Arnold,Quality Assurance,Royalty Models; API Management; User Documentation; Testing & Validation,Regensburg
+EMP223,Zara Böhm,Systems Integration,Vendor Onboarding; Cyber Resilience Act Compliance; Security Architecture; Risk Assessment,Eisenach
+EMP224,Heike Koch,Product Management,ISO/SAE 21434; Interface Documentation; Testing & Validation; Risk Assessment,Dingolfing
+EMP225,Paula Schneider,Strategy & Innovation,Partner Certification Programs; Ecosystem Strategy; Requirements Engineering; Visualization,Berlin
+EMP226,Carla Scholz,Data Engineering & Analytics,Interface Documentation; Partner Portals; Supplier Qualification; Risk Assessment,Regensburg
+EMP227,Marlene Richter,Procurement Strategy,Modular Actuator Platform; LIN Protocol; Data Pipelines; Visualization,Berlin
+EMP228,Kim Huber,Product Management,Stock Visibility; Part Number Management; Process Optimization; Security Architecture,Leipzig
+EMP229,Stefan Werner,Supply Chain & Logistics,Digital Twin for Components; Predictive Disassembly; Testing & Validation; Change Management,Dingolfing
+EMP230,Timo Brandt,Digital Platform & Portals,Circular Economy; Parsdorf Storage Optimization; Quality Standards; Cloud Architecture,Munich
+EMP231,Ursula Weber,Strategy & Innovation,Reuse Process Automation; Fleet Development Components; Supplier Qualification; Quality Standards,Dingolfing
+EMP232,Elias Becker,Product Management,Stock Visibility; Discount & Promotion Management; Quality Standards; Data Pipelines,Stuttgart
+EMP233,Lea Krüger,Procurement Strategy,ISO/SAE 21434; Partner Portals; Risk Assessment; Supplier Qualification,Munich
+EMP234,Heike Schmidt,Product Management,Fleet Development Components; Parsdorf Storage Optimization; Project Management; User Documentation,Leipzig
+EMP235,Lorenz Kraus,Digital Platform & Portals,Hardware-Software Co-Design; NVH Optimization; Project Management; User Documentation,Regensburg
+EMP236,Rita Peters,Supply Chain & Logistics,Reuse Process Automation; Fleet Development Components; Edge Computing; Security Architecture,Dingolfing
+EMP237,Mira Haas,Procurement Strategy,Sustainability KPIs; Fleet Development Components; Testing & Validation; Cloud Architecture,Unterschleissheim
+EMP238,Tobias Huber,Strategy & Innovation,Circular Economy; Digital Twin for Components; Cloud Architecture; Project Management,Berlin
+EMP239,Xenia Kraus,Data Engineering & Analytics,Co-Marketing Programs; Vendor Onboarding; Cost Modeling; Testing & Validation,Leipzig
+EMP240,Philipp Schmidt,Quality Assurance,Demand-driven Disassembly; Sustainability KPIs; Edge Computing; Process Optimization,Landshut
+EMP241,Paula Schmidt,Strategy & Innovation,Co-Marketing Programs; API Management; Cloud Architecture; Process Optimization,Stuttgart
+EMP242,Viktor Lehmann,Supply Chain & Logistics,Demand-driven Disassembly; Parts Categorization; Project Management; Process Optimization,Stuttgart
+EMP243,Julia Moser,Configurator & UX,Cyber Resilience Act Compliance; API Management; Cloud Architecture; Project Management,Stuttgart
+EMP244,Marlene Müller,Data Engineering & Analytics,Bundle Configuration Logic; Stock Visibility; Project Management; Testing & Validation,Dingolfing
+EMP245,Oskar Maier,Procurement Strategy,Availability & Pricing Transparency; Discount & Promotion Management; Risk Assessment; Change Management,Landshut
+EMP246,Yasmin Weber,Systems Integration,Parts Categorization; Reuse Process Automation; Supplier Qualification; Visualization,Landshut
+EMP247,Vanessa Meyer,Supply Chain & Logistics,Vendor Onboarding; Partner Certification Programs; Cost Modeling; Quality Standards,Munich
+EMP248,Felix Klein,Strategy & Innovation,API Management; Co-Marketing Programs; Cost Modeling; Project Management,Regensburg
+EMP249,Lena Hoffmann,Configurator & UX,LIN Protocol; Modular Actuator Platform; Edge Computing; Risk Assessment,Regensburg
+EMP250,Yannic Fuchs,Configurator & UX,NBC Integration; Bundle Configuration Logic; User Documentation; Supplier Qualification,Munich
+EMP251,Elias Schmitz,Quality Assurance,Predictive Disassembly; Digital Twin for Components; Cloud Architecture; Cost Modeling,Landshut
+EMP252,Erik Müller,Strategy & Innovation,Bundle Configuration Logic; Stock Visibility; Project Management; Visualization,Leipzig
+EMP253,Oskar Böhm,Procurement Strategy,Digital Twin for Components; Predictive Disassembly; Visualization; Supplier Qualification,Leipzig
+EMP254,Walter Kaiser,Product Management,Power Electronics; Mechatronic System Design; Testing & Validation; Quality Standards,Stuttgart
+EMP255,Bianca Becker,Product Management,Ecosystem Strategy; Royalty Models; Edge Computing; Data Pipelines,Leipzig
+EMP256,Ursula Scholz,Configurator & UX,LIN Protocol; Hardware-Software Co-Design; Visualization; Process Optimization,Stuttgart
+EMP257,Bianca Schmitt,Systems Integration,Part Number Management; Availability & Pricing Transparency; User Documentation; Visualization,Munich
+EMP258,Philipp Maier,Procurement Strategy,Discount & Promotion Management; Configurator UX; Risk Assessment; Project Management,Dingolfing
+EMP259,Robin Bauer,Strategy & Innovation,Predictive Disassembly; Digital Twin for Components; Requirements Engineering; Data Pipelines,Stuttgart
+EMP260,Ulla Koch,Quality Assurance,Fleet Development Components; Digital Twin for Components; Change Management; Visualization,Dingolfing
+EMP261,Jannik Peters,Procurement Strategy,Predictive Disassembly; Digital Twin for Components; User Documentation; Testing & Validation,Regensburg
+EMP262,Marcel Hoffmann,Digital Platform & Portals,Reuse Process Automation; Digital Twin for Components; Requirements Engineering; Cost Modeling,Eisenach
+EMP263,Stefan Hofmann,Data Engineering & Analytics,Availability & Pricing Transparency; Stock Visibility; Visualization; Requirements Engineering,Dingolfing
+EMP264,Lena Haas,Supply Chain & Logistics,Fleet Development Components; Digital Twin for Components; Edge Computing; Visualization,Dingolfing
+EMP265,Carla Schäfer,Product Management,Sustainability KPIs; Demand-driven Disassembly; Security Architecture; Visualization,Unterschleissheim
+EMP266,Tom Seidel,Strategy & Innovation,Modular Actuator Platform; Power Electronics; Change Management; Project Management,Stuttgart
+EMP267,Katharina Peters,Configurator & UX,NBC Integration; Part Number Management; Project Management; Quality Standards,Unterschleissheim
+EMP268,Quirin Richter,Data Engineering & Analytics,Predictive Disassembly; Parsdorf Storage Optimization; Supplier Qualification; User Documentation,Berlin
+EMP269,Luca Klein,Quality Assurance,Modular Actuator Platform; NVH Optimization; Process Optimization; Data Pipelines,Unterschleissheim
+EMP270,Philipp Arnold,Systems Integration,Circular Economy; Parts Categorization; Cloud Architecture; Change Management,Regensburg
+EMP271,Yasmin Huber,Supply Chain & Logistics,Royalty Models; Vendor Onboarding; Requirements Engineering; Cloud Architecture,Stuttgart
+EMP272,Olivia Peters,Quality Assurance,Partner Portals; Cyber Resilience Act Compliance; Data Pipelines; Supplier Qualification,Eisenach
+EMP273,Julian Werner,Digital Platform & Portals,Vendor Onboarding; Royalty Models; Testing & Validation; Security Architecture,Berlin
+EMP274,Xenia Krause,Systems Integration,Hardware-Software Co-Design; Power Electronics; Requirements Engineering; Data Pipelines,Stuttgart
+EMP275,Elena Seidel,Data Engineering & Analytics,Hardware-Software Co-Design; Power Electronics; Change Management; Requirements Engineering,Regensburg
+EMP276,Claudia Zimmermann,Strategy & Innovation,Partner Certification Programs; Vendor Onboarding; Cloud Architecture; Quality Standards,Regensburg
+EMP277,Kim Schreiber,Configurator & UX,Parts Categorization; Demand-driven Disassembly; Edge Computing; Data Pipelines,Eisenach
+EMP278,Anna Schreiber,Product Management,Discount & Promotion Management; Configurator UX; Quality Standards; Process Optimization,Stuttgart
+EMP279,Yannic Wolf,Configurator & UX,Part Number Management; Configurator UX; Cost Modeling; Security Architecture,Unterschleissheim
+EMP280,Timo Schmitz,Systems Integration,Standardized Interfaces; Embedded Motor Control; Data Pipelines; Cloud Architecture,Eisenach
+EMP281,Simon Seidel,Supply Chain & Logistics,Discount & Promotion Management; Part Number Management; User Documentation; Data Pipelines,Berlin
+EMP282,Rita Meyer,Digital Platform & Portals,Mechatronic System Design; Modular Actuator Platform; User Documentation; Risk Assessment,Eisenach
+EMP283,Philipp Schmitz,Supply Chain & Logistics,Embedded Motor Control; NVH Optimization; Risk Assessment; Cost Modeling,Munich
+EMP284,Ursula Huber,Strategy & Innovation,Parsdorf Storage Optimization; Reuse Process Automation; Project Management; Change Management,Berlin
+EMP285,Erik Brandt,Procurement Strategy,Hardware-Software Co-Design; Modular Actuator Platform; Supplier Qualification; Testing & Validation,Munich
+EMP286,Timo Peters,Supply Chain & Logistics,Part Number Management; Availability & Pricing Transparency; Visualization; Change Management,Stuttgart
+EMP287,Stefan Müller,Supply Chain & Logistics,LIN Protocol; Hardware-Software Co-Design; Cost Modeling; Security Architecture,Landshut
+EMP288,Noah Hartmann,Digital Platform & Portals,NVH Optimization; Mechatronic System Design; Risk Assessment; Security Architecture,Unterschleissheim
+EMP289,Marlene Maier,Supply Chain & Logistics,Economies of Scale; NVH Optimization; Requirements Engineering; Supplier Qualification,Unterschleissheim
+EMP290,Lars Krüger,Configurator & UX,Embedded Motor Control; Standardized Interfaces; Supplier Qualification; Project Management,Regensburg
+EMP291,Bianca Neumann,Supply Chain & Logistics,Digital Twin for Components; Fleet Development Components; Quality Standards; Testing & Validation,Stuttgart
+EMP292,Oskar Meyer,Configurator & UX,Digital Twin for Components; Predictive Disassembly; Quality Standards; Change Management,Dingolfing
+EMP293,Isabel Seidel,Quality Assurance,Digital Twin for Components; Parts Categorization; Risk Assessment; Quality Standards,Landshut
+EMP294,Zoe Lange,Procurement Strategy,Bundle Configuration Logic; Ordering Automation; Supplier Qualification; Data Pipelines,Leipzig
+EMP295,Moritz Winter,Supply Chain & Logistics,Partner Certification Programs; Interface Documentation; Security Architecture; Process Optimization,Eisenach
+EMP296,Jonas Brandt,Data Engineering & Analytics,Configurator UX; Part Number Management; Change Management; Edge Computing,Landshut
+EMP297,Niklas Brandt,Strategy & Innovation,Dealer IT Systems; Availability & Pricing Transparency; Supplier Qualification; Cost Modeling,Eisenach
+EMP298,Sebastian Hartmann,Supply Chain & Logistics,Stock Visibility; Sales Analytics; Edge Computing; Security Architecture,Berlin
+EMP299,Marlene Fuchs,Strategy & Innovation,Part Number Management; Sales Analytics; Visualization; User Documentation,Eisenach
+EMP300,Zara Seidel,Digital Platform & Portals,Circular Economy; Fleet Development Components; Change Management; Edge Computing,Eisenach
+EMP301,Clara Hartmann,DevOps & Platform Engineering,Interface Documentation; Power Electronics; Royalty Models,Berlin
+EMP302,Hannah Krüger,IT Infrastructure,Modular Actuator Platform; Cloud Architecture; Availability & Pricing Transparency,Leipzig
+EMP303,Paul Fischer,Manufacturing Engineering,Project Management; Cost Modeling; Configurator UX,Munich
+EMP304,Felicia Huber,Digital Platform & Portals,Interface Documentation; Sustainability KPIs; Trademark & Labeling,Berlin
+EMP305,Marlene Moser,Power Electronics,Trademark & Labeling; Power Electronics; Part Number Management,Leipzig
+EMP306,Elias Lange,Corporate Communications,Digital Twin for Components; Supplier Qualification; Quality Standards,Berlin
+EMP307,Clara Maier,Retail Systems Integration,Supplier Qualification; User Documentation; Partner Certification Programs,Leipzig
+EMP308,Robin Weber,Configurator & UX,Supplier Qualification; Change Management; Modular Actuator Platform,Landshut
+EMP309,Mira Fiedler,Supply Chain & Logistics,Partner Certification Programs; Dealer IT Systems; Vendor Onboarding,Regensburg
+EMP310,Timo Bauer,Corporate Communications,Demand-driven Disassembly; LIN Protocol; Bundle Configuration Logic,Regensburg
+EMP311,Simon Vogel,Product Management,Predictive Disassembly; Sales Analytics; Part Number Management,Eisenach
+EMP312,Katrin Becker,Manufacturing Engineering,Edge Computing; Modular Actuator Platform; Royalty Models,Leipzig
+EMP313,Ulla Wagner,Strategy & Innovation,Interface Documentation; Partner Portals; Mechatronic System Design,Regensburg
+EMP314,Julian Huber,Power Electronics,API Management; Royalty Models; Economies of Scale,Berlin
+EMP315,Heike Schmitt,Finance & Controlling,Discount & Promotion Management; Process Optimization; Edge Computing,Landshut
+EMP316,Katharina Meyer,Corporate Communications,Demand-driven Disassembly; Visualization; Edge Computing,Dingolfing
+EMP317,Valentin Kraus,Product Management,Sustainability KPIs; Circular Economy; Standardized Interfaces,Dingolfing
+EMP318,Isabel Müller,Cybersecurity & Vehicle Security,Modular Actuator Platform; Interface Documentation; Economies of Scale,Dingolfing
+EMP319,Selina Werner,DevOps & Platform Engineering,Demand-driven Disassembly; Visualization; Standardized Interfaces,Landshut
+EMP320,Julia Klein,Human Resources,Testing & Validation; Discount & Promotion Management; Sales Analytics,Landshut
+EMP321,Sven Meyer,Strategy & Innovation,Sales Analytics; Ecosystem Strategy; NVH Optimization,Stuttgart
+EMP322,Timo Wolf,Finance & Controlling,Dealer IT Systems; NBC Integration; Availability & Pricing Transparency,Eisenach
+EMP323,Vanessa Weber,Legal & Compliance,Modular Actuator Platform; Embedded Motor Control; Co-Marketing Programs,Unterschleissheim
+EMP324,Bianca Brandt,Product Management,Bundle Configuration Logic; Configurator UX; Stock Visibility,Leipzig
+EMP325,Ursula Wolf,Systems Integration,Power Electronics; Supplier Qualification; Sustainability KPIs,Berlin
+EMP326,Simon Schreiber,Manufacturing Engineering,Project Management; Digital Twin for Components; Predictive Disassembly,Stuttgart
+EMP327,Greta Hoffmann,Cybersecurity & Vehicle Security,Economies of Scale; Sustainability KPIs; Bundle Configuration Logic,Munich
+EMP328,Dominik Schmitz,Human Resources,Configurator UX; Visualization; Cloud Architecture,Stuttgart
+EMP329,Elias Wagner,IT Infrastructure,Visualization; Availability & Pricing Transparency; Project Management,Eisenach
+EMP330,Marcel Meyer,Material Science & Testing,Sales Analytics; Embedded Motor Control; Parts Categorization,Stuttgart
+EMP331,Zoe Lange,Partner Certification & Ecosystem,Quality Standards; Cloud Architecture; Security Architecture,Leipzig
+EMP332,Petra Klein,Supply Chain & Logistics,Partner Certification Programs; API Management; Availability & Pricing Transparency,Stuttgart
+EMP333,Matthias Weber,Data Engineering & Analytics,Circular Economy; API Management; ISO/SAE 21434,Stuttgart
+EMP334,Heike Hartmann,Strategy & Innovation,Part Number Management; Quality Standards; Security Architecture,Berlin
+EMP335,Stefan Wolf,Quality Assurance,Reuse Process Automation; Partner Certification Programs; Predictive Disassembly,Leipzig
+EMP336,Elias Böhm,Supply Chain & Logistics,Partner Portals; Vendor Onboarding; Economies of Scale,Berlin
+EMP337,Kim Fischer,Manufacturing Engineering,Data Pipelines; Interface Documentation; API Management,Eisenach
+EMP338,Claudia Moser,Systems Integration,Security Architecture; Discount & Promotion Management; Mechatronic System Design,Eisenach
+EMP339,Michael Braun,Market Analysis & Pricing,Parsdorf Storage Optimization; Dealer IT Systems; Quality Standards,Munich
+EMP340,Bianca Hartmann,Partner Certification & Ecosystem,Modular Actuator Platform; Interface Documentation; Supplier Qualification,Leipzig
+EMP341,Marlene Vogel,Configurator & UX,Risk Assessment; Fleet Development Components; Sustainability KPIs,Berlin
+EMP342,Lars Lange,DevOps & Platform Engineering,Power Electronics; LIN Protocol; Configurator UX,Eisenach
+EMP343,Xaver Meyer,Market Analysis & Pricing,Testing & Validation; Vendor Onboarding; Data Pipelines,Regensburg
+EMP344,Mira Berger,DevOps & Platform Engineering,Circular Economy; Reuse Process Automation; Part Number Management,Munich
+EMP345,Dominik Lange,Supply Chain & Logistics,Trademark & Labeling; Part Number Management; Stock Visibility,Leipzig
+EMP346,Marlene Franke,Supply Chain & Logistics,Data Pipelines; Project Management; Visualization,Dingolfing
+EMP347,Xaver Schmitz,Configurator & UX,Discount & Promotion Management; Circular Economy; Fleet Development Components,Munich
+EMP348,Lea Neumann,IT Infrastructure,Dealer IT Systems; Interface Documentation; Sales Analytics,Munich
+EMP349,Philipp Schmitt,Partner Certification & Ecosystem,Quality Standards; Part Number Management; Bundle Configuration Logic,Landshut
+EMP350,Xaver Krause,Configurator & UX,Sales Analytics; Digital Twin for Components; Circular Economy,Eisenach
+EMP351,Noah Zimmermann,Quality Assurance,Bundle Configuration Logic; Fleet Development Components; Configurator UX,Stuttgart
+EMP352,Selina Böhm,Data Engineering & Analytics,Standardized Interfaces; NVH Optimization; Predictive Disassembly,Munich
+EMP353,Sebastian Lehmann,Market Analysis & Pricing,Cloud Architecture; Risk Assessment; Supplier Qualification,Regensburg
+EMP354,Julian Zimmermann,Market Analysis & Pricing,Quality Standards; Configurator UX; Process Optimization,Regensburg
+EMP355,Jennifer Fischer,Strategy & Innovation,Demand-driven Disassembly; Parsdorf Storage Optimization; Sustainability KPIs,Eisenach
+EMP356,Theresa Arnold,Mechatronics & Actuators,Bundle Configuration Logic; Part Number Management; Power Electronics,Berlin
+EMP357,Viktor Müller,Manufacturing Engineering,Project Management; Data Pipelines; Trademark & Labeling,Dingolfing
+EMP358,Viktor Peters,Partner Certification & Ecosystem,Parts Categorization; Power Electronics; Partner Portals,Landshut
+EMP359,Yasmin Simon,Material Science & Testing,Reuse Process Automation; Parts Categorization; Stock Visibility,Eisenach
+EMP360,Nina Meyer,Corporate Communications,API Management; Vendor Onboarding; Parts Categorization,Munich
+EMP361,Tobias Wagner,Mechatronics & Actuators,Ecosystem Strategy; Partner Certification Programs; Partner Portals,Leipzig
+EMP362,Olivia Krause,IT Infrastructure,Sales Analytics; Availability & Pricing Transparency; Cyber Resilience Act Compliance,Leipzig
+EMP363,Jennifer Hartmann,Data Engineering & Analytics,Parts Categorization; Co-Marketing Programs; Discount & Promotion Management,Munich
+EMP364,Xaver Berger,Retail Systems Integration,Parts Categorization; Standardized Interfaces; Ordering Automation,Eisenach
+EMP365,Oskar Wolf,Material Science & Testing,Sustainability KPIs; Data Pipelines; Mechatronic System Design,Unterschleissheim
+EMP366,Zoe Schwarz,Retail Systems Integration,Supplier Qualification; Testing & Validation; Parts Categorization,Berlin
+EMP367,Lena Becker,Material Science & Testing,Power Electronics; Economies of Scale; Fleet Development Components,Stuttgart
+EMP368,Matthias Berger,IT Infrastructure,Discount & Promotion Management; Sustainability KPIs; Change Management,Berlin
+EMP369,Carla Bauer,Supply Chain & Logistics,Ordering Automation; Data Pipelines; Availability & Pricing Transparency,Dingolfing
+EMP370,Moritz Seidel,Strategy & Innovation,Availability & Pricing Transparency; Royalty Models; Ordering Automation,Regensburg
+EMP371,Erik Schmidt,Configurator & UX,Cloud Architecture; Stock Visibility; Part Number Management,Leipzig
+EMP372,Quirin Berger,Mechatronics & Actuators,Predictive Disassembly; Ecosystem Strategy; Partner Portals,Dingolfing
+EMP373,Carla Beck,Quality Assurance,Stock Visibility; Interface Documentation; Part Number Management,Unterschleissheim
+EMP374,Viktor Hofmann,Quality Assurance,User Documentation; Sustainability KPIs; Configurator UX,Regensburg
+EMP375,Florian Brandt,Systems Integration,Partner Certification Programs; LIN Protocol; Hardware-Software Co-Design,Dingolfing
+EMP376,Paul Schreiber,Manufacturing Engineering,Hardware-Software Co-Design; Dealer IT Systems; Economies of Scale,Unterschleissheim
+EMP377,Marlene Winter,Digital Platform & Portals,Partner Portals; Cyber Resilience Act Compliance; Testing & Validation,Stuttgart
+EMP378,Mira Koch,Power Electronics,Data Pipelines; Stock Visibility; Change Management,Stuttgart
+EMP379,Lars Moser,Legal & Compliance,Royalty Models; LIN Protocol; Economies of Scale,Eisenach
+EMP380,Elena Haas,Manufacturing Engineering,Ecosystem Strategy; Discount & Promotion Management; Circular Economy,Berlin
+EMP381,Simon Becker,Quality Assurance,Circular Economy; Visualization; Stock Visibility,Munich
+EMP382,Marcel Hofmann,Systems Integration,Economies of Scale; Quality Standards; Process Optimization,Leipzig
+EMP383,Lena Meyer,Cybersecurity & Vehicle Security,Predictive Disassembly; Testing & Validation; Change Management,Unterschleissheim
+EMP384,Xaver Maier,Material Science & Testing,Fleet Development Components; Stock Visibility; Power Electronics,Regensburg
+EMP385,Xenia Winter,Manufacturing Engineering,ISO/SAE 21434; Supplier Qualification; Process Optimization,Eisenach
+EMP386,Rita Krause,Strategy & Innovation,Data Pipelines; Parsdorf Storage Optimization; Fleet Development Components,Eisenach
+EMP387,Elias Huber,Supply Chain & Logistics,LIN Protocol; Mechatronic System Design; Modular Actuator Platform,Dingolfing
+EMP388,Olivia Krüger,Quality Assurance,Stock Visibility; Sales Analytics; LIN Protocol,Eisenach
+EMP389,Bianca Vogel,Power Electronics,Risk Assessment; Standardized Interfaces; Project Management,Stuttgart
+EMP390,Julian Becker,Product Management,NBC Integration; Modular Actuator Platform; Quality Standards,Munich
+EMP391,Ursula Krüger,IT Infrastructure,Ecosystem Strategy; API Management; Configurator UX,Munich
+EMP392,Ulla Braun,Configurator & UX,Mechatronic System Design; NVH Optimization; Supplier Qualification,Eisenach
+EMP393,Fabian Krause,Legal & Compliance,Partner Certification Programs; Predictive Disassembly; Part Number Management,Stuttgart
+EMP394,Walter Fischer,DevOps & Platform Engineering,Royalty Models; Predictive Disassembly; Fleet Development Components,Munich
+EMP395,Ursula Weber,Retail Systems Integration,Parsdorf Storage Optimization; Fleet Development Components; Predictive Disassembly,Berlin
+EMP396,Moritz Kaiser,Circular Economy & Sustainability,Modular Actuator Platform; Mechatronic System Design; API Management,Munich
+EMP397,Philipp Haas,Cybersecurity & Vehicle Security,Interface Documentation; Demand-driven Disassembly; Digital Twin for Components,Eisenach
+EMP398,Florian Krause,Configurator & UX,Risk Assessment; Quality Standards; Sales Analytics,Landshut
+EMP399,Florian Fiedler,Supply Chain & Logistics,Circular Economy; Data Pipelines; Power Electronics,Stuttgart
+EMP400,Elias Böhm,Mechatronics & Actuators,Part Number Management; Stock Visibility; Modular Actuator Platform,Landshut
+EMP401,Felicia Koch,Configurator & UX,Reuse Process Automation; Interface Documentation; Requirements Engineering,Stuttgart
+EMP402,Vanessa Neumann,DevOps & Platform Engineering,Visualization; Modular Actuator Platform; Hardware-Software Co-Design,Munich
+EMP403,Luca Kaiser,Partner Certification & Ecosystem,ISO/SAE 21434; NBC Integration; Discount & Promotion Management,Munich
+EMP404,Simon Meyer,Market Analysis & Pricing,Bundle Configuration Logic; Vendor Onboarding; NBC Integration,Munich
+EMP405,Olivia Werner,Market Analysis & Pricing,Demand-driven Disassembly; NVH Optimization; Circular Economy,Eisenach
+EMP406,Oskar Wagner,Circular Economy & Sustainability,Cloud Architecture; Discount & Promotion Management; Standardized Interfaces,Munich
+EMP407,Marcel Neumann,Material Science & Testing,Cyber Resilience Act Compliance; Predictive Disassembly; Bundle Configuration Logic,Berlin
+EMP408,Xaver Weber,DevOps & Platform Engineering,Modular Actuator Platform; Co-Marketing Programs; Partner Portals,Regensburg
+EMP409,Zara Fischer,Embedded Software & Controls,Process Optimization; Availability & Pricing Transparency; Co-Marketing Programs,Landshut
+EMP410,Jannik Krüger,Market Analysis & Pricing,Sustainability KPIs; Edge Computing; Visualization,Stuttgart
+EMP411,Sven Hofmann,Strategy & Innovation,Parsdorf Storage Optimization; Discount & Promotion Management; API Management,Regensburg
+EMP412,Hannah Böhm,Legal & Compliance,Configurator UX; Demand-driven Disassembly; Dealer IT Systems,Leipzig
+EMP413,Simon Fuchs,Systems Integration,Discount & Promotion Management; Data Pipelines; Cost Modeling,Eisenach
+EMP414,Petra Huber,Retail Systems Integration,Testing & Validation; Stock Visibility; Project Management,Leipzig
+EMP415,Marcel Franke,Product Management,LIN Protocol; Demand-driven Disassembly; Sustainability KPIs,Regensburg
+EMP416,Isabel Maier,Quality Assurance,Sales Analytics; Partner Certification Programs; Part Number Management,Unterschleissheim
+EMP417,Stefan Braun,Digital Platform & Portals,ISO/SAE 21434; Economies of Scale; Process Optimization,Landshut
+EMP418,Yasmin Arnold,Digital Platform & Portals,Sales Analytics; Parsdorf Storage Optimization; Ordering Automation,Regensburg
+EMP419,Theresa Schneider,Market Analysis & Pricing,NVH Optimization; Stock Visibility; Parsdorf Storage Optimization,Munich
+EMP420,Zara Brandt,Corporate Communications,Partner Certification Programs; Vendor Onboarding; Change Management,Berlin
+EMP421,Lena Wagner,Human Resources,Testing & Validation; Risk Assessment; NVH Optimization,Landshut
+EMP422,Greta Maier,Power Electronics,Testing & Validation; Process Optimization; Quality Standards,Stuttgart
+EMP423,Noah Schäfer,Systems Integration,Mechatronic System Design; Stock Visibility; Bundle Configuration Logic,Regensburg
+EMP424,Jonas Lehmann,Circular Economy & Sustainability,Ecosystem Strategy; Data Pipelines; Configurator UX,Regensburg
+EMP425,Timo Lang,Data Engineering & Analytics,Data Pipelines; Demand-driven Disassembly; Edge Computing,Stuttgart
+EMP426,Marlene Haas,Configurator & UX,Parsdorf Storage Optimization; Embedded Motor Control; Demand-driven Disassembly,Leipzig
+EMP427,Elena Haas,Manufacturing Engineering,Part Number Management; Mechatronic System Design; Availability & Pricing Transparency,Berlin
+EMP428,Felix Lehmann,Supply Chain & Logistics,Digital Twin for Components; LIN Protocol; Bundle Configuration Logic,Landshut
+EMP429,Sandy Wolf,Strategy & Innovation,ISO/SAE 21434; Parsdorf Storage Optimization; Royalty Models,Munich
+EMP430,Yannic Simon,IT Infrastructure,Fleet Development Components; Risk Assessment; Change Management,Dingolfing
+EMP431,Moritz Richter,DevOps & Platform Engineering,Vendor Onboarding; Co-Marketing Programs; ISO/SAE 21434,Berlin
+EMP432,Erik Schneider,Systems Integration,Modular Actuator Platform; Part Number Management; NVH Optimization,Regensburg
+EMP433,Theresa Hofmann,DevOps & Platform Engineering,Cyber Resilience Act Compliance; Royalty Models; Parsdorf Storage Optimization,Leipzig
+EMP434,Florian Weber,Partner Certification & Ecosystem,Discount & Promotion Management; Predictive Disassembly; Fleet Development Components,Stuttgart
+EMP435,Ursula Winter,Data Engineering & Analytics,Ordering Automation; Fleet Development Components; Demand-driven Disassembly,Berlin
+EMP436,Sofia Schmitt,Systems Integration,Circular Economy; Standardized Interfaces; Sustainability KPIs,Berlin
+EMP437,Michael Böhm,Systems Integration,Cyber Resilience Act Compliance; Cloud Architecture; Project Management,Eisenach
+EMP438,Caroline Böhm,Cybersecurity & Vehicle Security,Quality Standards; Discount & Promotion Management; Ecosystem Strategy,Berlin
+EMP439,Hannes Lehmann,Embedded Software & Controls,Change Management; Partner Certification Programs; Modular Actuator Platform,Unterschleissheim
+EMP440,Theresa Neumann,IT Infrastructure,Visualization; Parsdorf Storage Optimization; Fleet Development Components,Unterschleissheim
+EMP441,Robin Böhm,Quality Assurance,LIN Protocol; Supplier Qualification; Requirements Engineering,Unterschleissheim
+EMP442,Jannik Schmidt,IT Infrastructure,Parts Categorization; Stock Visibility; Part Number Management,Berlin
+EMP443,Mira Klein,Systems Integration,Parsdorf Storage Optimization; NVH Optimization; Risk Assessment,Munich
+EMP444,Ulla Huber,Strategy & Innovation,Parts Categorization; Fleet Development Components; Demand-driven Disassembly,Dingolfing
+EMP445,David Schreiber,Product Management,ISO/SAE 21434; Partner Portals; NVH Optimization,Landshut
+EMP446,Lena Becker,Circular Economy & Sustainability,Project Management; Stock Visibility; Process Optimization,Landshut
+EMP447,Caroline Fiedler,Embedded Software & Controls,Modular Actuator Platform; Hardware-Software Co-Design; Partner Portals,Landshut
+EMP448,Heike Werner,Embedded Software & Controls,Supplier Qualification; Data Pipelines; Part Number Management,Berlin
+EMP449,Valentin Schneider,Retail Systems Integration,NBC Integration; Stock Visibility; Royalty Models,Regensburg
+EMP450,Sebastian Haas,Strategy & Innovation,Parsdorf Storage Optimization; Quality Standards; Fleet Development Components,Munich
+EMP451,Lars Kraus,Retail Systems Integration,Risk Assessment; Stock Visibility; Modular Actuator Platform,Stuttgart
+EMP452,Tobias Arnold,Strategy & Innovation,Parts Categorization; Quality Standards; Ecosystem Strategy,Stuttgart
+EMP453,Paul Klein,Mechatronics & Actuators,Mechatronic System Design; Testing & Validation; NBC Integration,Munich
+EMP454,Lena Müller,Finance & Controlling,Configurator UX; Visualization; Stock Visibility,Unterschleissheim
+EMP455,Mira Richter,Partner Certification & Ecosystem,Embedded Motor Control; Trademark & Labeling; Sustainability KPIs,Landshut
+EMP456,Marlene Huber,Supply Chain & Logistics,Parsdorf Storage Optimization; Cloud Architecture; Risk Assessment,Dingolfing
+EMP457,Markus Klein,Market Analysis & Pricing,Parts Categorization; Interface Documentation; Co-Marketing Programs,Dingolfing
+EMP458,Sandy Brandt,Systems Integration,Part Number Management; Economies of Scale; LIN Protocol,Eisenach
+EMP459,Zoe Lange,Market Analysis & Pricing,Demand-driven Disassembly; Reuse Process Automation; NBC Integration,Landshut
+EMP460,Selina Winter,Finance & Controlling,Quality Standards; Interface Documentation; Testing & Validation,Dingolfing
+EMP461,Zoe Brandt,Manufacturing Engineering,Data Pipelines; Sales Analytics; Stock Visibility,Landshut
+EMP462,Oskar Braun,Circular Economy & Sustainability,Availability & Pricing Transparency; Bundle Configuration Logic; Partner Certification Programs,Eisenach
+EMP463,Bianca Schmitt,Material Science & Testing,Cyber Resilience Act Compliance; Parsdorf Storage Optimization; Modular Actuator Platform,Berlin
+EMP464,Robin Haas,Legal & Compliance,Configurator UX; Mechatronic System Design; NBC Integration,Stuttgart
+EMP465,Ulla Fuchs,Embedded Software & Controls,Discount & Promotion Management; Parsdorf Storage Optimization; Sales Analytics,Munich
+EMP466,Robin Kraus,Finance & Controlling,Availability & Pricing Transparency; Edge Computing; Reuse Process Automation,Leipzig
+EMP467,Jonas Berger,Mechatronics & Actuators,Co-Marketing Programs; Partner Certification Programs; NVH Optimization,Landshut
+EMP468,Lena Böhm,Quality Assurance,Partner Certification Programs; Fleet Development Components; Digital Twin for Components,Leipzig
+EMP469,Luca Vogel,Procurement Strategy,API Management; Interface Documentation; NBC Integration,Berlin
+EMP470,Xenia Richter,Embedded Software & Controls,Sustainability KPIs; Demand-driven Disassembly; Reuse Process Automation,Stuttgart
+EMP471,Walter Schmitz,Material Science & Testing,Ordering Automation; Interface Documentation; Availability & Pricing Transparency,Landshut
+EMP472,Fabian Richter,Mechatronics & Actuators,Edge Computing; Cloud Architecture; Data Pipelines,Unterschleissheim
+EMP473,Viktor Wolf,Retail Systems Integration,Dealer IT Systems; Stock Visibility; Ordering Automation,Eisenach
+EMP474,Lena Peters,Data Engineering & Analytics,Discount & Promotion Management; Requirements Engineering; Sales Analytics,Stuttgart
+EMP475,David Hofmann,Finance & Controlling,Ecosystem Strategy; Vendor Onboarding; Cloud Architecture,Leipzig
+EMP476,Heike Kraus,Product Management,Predictive Disassembly; Sales Analytics; Cloud Architecture,Leipzig
+EMP477,Rafael Werner,Data Engineering & Analytics,Security Architecture; Testing & Validation; Reuse Process Automation,Unterschleissheim
+EMP478,Nina Becker,Procurement Strategy,Parsdorf Storage Optimization; Availability & Pricing Transparency; Part Number Management,Eisenach
+EMP479,Michael Zimmermann,Manufacturing Engineering,Embedded Motor Control; Power Electronics; Vendor Onboarding,Eisenach
+EMP480,Robin Seidel,Mechatronics & Actuators,Standardized Interfaces; Digital Twin for Components; Vendor Onboarding,Leipzig
+EMP481,Anna Zimmermann,Legal & Compliance,Configurator UX; Sales Analytics; Availability & Pricing Transparency,Berlin
+EMP482,Xenia Bauer,DevOps & Platform Engineering,Sustainability KPIs; Configurator UX; Demand-driven Disassembly,Eisenach
+EMP483,Viktor Hartmann,Procurement Strategy,Data Pipelines; Testing & Validation; Mechatronic System Design,Leipzig
+EMP484,Felicia Böhm,IT Infrastructure,Standardized Interfaces; Economies of Scale; NBC Integration,Landshut
+EMP485,Mira Braun,Partner Certification & Ecosystem,Economies of Scale; Part Number Management; NVH Optimization,Stuttgart
+EMP486,Tobias Werner,Quality Assurance,Interface Documentation; Risk Assessment; Project Management,Leipzig
+EMP487,Walter Arnold,Quality Assurance,Circular Economy; Partner Portals; Vendor Onboarding,Munich
+EMP488,Oskar Berger,Cybersecurity & Vehicle Security,Cost Modeling; Circular Economy; Supplier Qualification,Munich
+EMP489,Markus Schäfer,Quality Assurance,LIN Protocol; Partner Certification Programs; Trademark & Labeling,Eisenach
+EMP490,Mira Meyer,Partner Certification & Ecosystem,Parts Categorization; Digital Twin for Components; Visualization,Berlin
+EMP491,Viktor Arnold,Embedded Software & Controls,Trademark & Labeling; Circular Economy; Modular Actuator Platform,Eisenach
+EMP492,Felix Schreiber,DevOps & Platform Engineering,Stock Visibility; Interface Documentation; Bundle Configuration Logic,Munich
+EMP493,Quirin Böhm,DevOps & Platform Engineering,Change Management; Power Electronics; API Management,Stuttgart
+EMP494,Sebastian Haas,Retail Systems Integration,Stock Visibility; Dealer IT Systems; Bundle Configuration Logic,Berlin
+EMP495,Moritz Fuchs,Manufacturing Engineering,Configurator UX; Bundle Configuration Logic; Vendor Onboarding,Leipzig
+EMP496,Paul Meyer,Retail Systems Integration,Requirements Engineering; Cloud Architecture; Ordering Automation,Leipzig
+EMP497,Olivia Schmitt,Quality Assurance,User Documentation; Cloud Architecture; Project Management,Landshut
+EMP498,Marlene Schäfer,Quality Assurance,Configurator UX; Vendor Onboarding; Partner Certification Programs,Berlin
+EMP499,Heike Fuchs,Strategy & Innovation,Risk Assessment; LIN Protocol; Power Electronics,Regensburg
+EMP500,Timo Schwarz,Retail Systems Integration,API Management; LIN Protocol; Fleet Development Components,Munich
+EMP501,Kim Müller,IT Infrastructure,Edge Computing; Fleet Development Components; Modular Actuator Platform,Unterschleissheim
+EMP502,Tom Huber,Data Engineering & Analytics,Economies of Scale; Requirements Engineering; Fleet Development Components,Berlin
+EMP503,Yasmin Becker,Retail Systems Integration,Partner Certification Programs; Cyber Resilience Act Compliance; Digital Twin for Components,Stuttgart
+EMP504,Jannik Arnold,Mechatronics & Actuators,Demand-driven Disassembly; Digital Twin for Components; Reuse Process Automation,Regensburg
+EMP505,David Kaiser,Material Science & Testing,Ecosystem Strategy; Partner Portals; Dealer IT Systems,Regensburg
+EMP506,Theresa Meyer,Systems Integration,Reuse Process Automation; Digital Twin for Components; Fleet Development Components,Landshut
+EMP507,Yannic Berger,Cybersecurity & Vehicle Security,Data Pipelines; Ordering Automation; Cost Modeling,Munich
+EMP508,Petra Arnold,Digital Platform & Portals,NBC Integration; Parts Categorization; Demand-driven Disassembly,Regensburg
+EMP509,Timo Seidel,Manufacturing Engineering,NBC Integration; Reuse Process Automation; Configurator UX,Landshut
+EMP510,Greta Arnold,Legal & Compliance,Reuse Process Automation; Parsdorf Storage Optimization; Fleet Development Components,Munich
+EMP511,Anna Seidel,Supply Chain & Logistics,Cost Modeling; Requirements Engineering; Cloud Architecture,Landshut
+EMP512,Theresa Hofmann,Legal & Compliance,Cyber Resilience Act Compliance; Hardware-Software Co-Design; Mechatronic System Design,Unterschleissheim
+EMP513,Elias Haas,Systems Integration,Fleet Development Components; User Documentation; Edge Computing,Dingolfing
+EMP514,Sebastian Krause,IT Infrastructure,Co-Marketing Programs; NBC Integration; Ecosystem Strategy,Eisenach
+EMP515,Tom Haas,Embedded Software & Controls,Hardware-Software Co-Design; Royalty Models; Data Pipelines,Munich
+EMP516,Marlene Schäfer,Mechatronics & Actuators,Cloud Architecture; Parsdorf Storage Optimization; Circular Economy,Leipzig
+EMP517,Florian Schmitz,DevOps & Platform Engineering,Vendor Onboarding; Hardware-Software Co-Design; Dealer IT Systems,Unterschleissheim
+EMP518,Katharina Werner,Configurator & UX,Supplier Qualification; Edge Computing; Testing & Validation,Unterschleissheim
+EMP519,Michael Koch,Configurator & UX,Circular Economy; Digital Twin for Components; Requirements Engineering,Leipzig
+EMP520,Kim Müller,Systems Integration,Risk Assessment; Security Architecture; Co-Marketing Programs,Eisenach
+EMP521,Greta Zimmermann,Partner Certification & Ecosystem,Sustainability KPIs; Part Number Management; Fleet Development Components,Dingolfing
+EMP522,Felix Weber,Circular Economy & Sustainability,NBC Integration; Trademark & Labeling; Part Number Management,Dingolfing
+EMP523,Florian Moser,Data Engineering & Analytics,Economies of Scale; Modular Actuator Platform; Quality Standards,Berlin
+EMP524,Niklas Schneider,Market Analysis & Pricing,Bundle Configuration Logic; Royalty Models; Circular Economy,Regensburg
+EMP525,Lars Krüger,Configurator & UX,Sustainability KPIs; Fleet Development Components; Mechatronic System Design,Unterschleissheim
+EMP526,Selina Kraus,Circular Economy & Sustainability,Fleet Development Components; Discount & Promotion Management; Parts Categorization,Leipzig
+EMP527,Elias Lange,Embedded Software & Controls,Project Management; Ordering Automation; Dealer IT Systems,Leipzig
+EMP528,Nina Brandt,Human Resources,Stock Visibility; Discount & Promotion Management; Demand-driven Disassembly,Berlin
+EMP529,Hannah Berger,Supply Chain & Logistics,Power Electronics; Economies of Scale; Cyber Resilience Act Compliance,Unterschleissheim
+EMP530,Yannic Franke,Strategy & Innovation,Partner Portals; Data Pipelines; Configurator UX,Unterschleissheim
+EMP531,Rafael Werner,Product Management,Ecosystem Strategy; Visualization; User Documentation,Stuttgart
+EMP532,Niklas Huber,Systems Integration,NBC Integration; Part Number Management; Ecosystem Strategy,Unterschleissheim
+EMP533,Yannic Maier,Digital Platform & Portals,Digital Twin for Components; Fleet Development Components; Cloud Architecture,Eisenach
+EMP534,Heike Klein,Supply Chain & Logistics,Power Electronics; Parts Categorization; Security Architecture,Dingolfing
+EMP535,Paul Hofmann,Retail Systems Integration,LIN Protocol; Parsdorf Storage Optimization; Discount & Promotion Management,Eisenach
+EMP536,Wiebke Kaiser,Human Resources,Interface Documentation; Partner Certification Programs; Trademark & Labeling,Landshut
+EMP537,Jannik Koch,Product Management,Process Optimization; Bundle Configuration Logic; Sales Analytics,Dingolfing
+EMP538,Tom Weber,Product Management,Sales Analytics; Vendor Onboarding; Data Pipelines,Stuttgart
+EMP539,Yasmin Fischer,Digital Platform & Portals,Partner Certification Programs; Trademark & Labeling; Royalty Models,Munich
+EMP540,Niklas Schreiber,Embedded Software & Controls,NBC Integration; Data Pipelines; Digital Twin for Components,Stuttgart
+EMP541,Theresa Lang,Procurement Strategy,Part Number Management; Embedded Motor Control; Sales Analytics,Leipzig
+EMP542,Sofia Peters,Legal & Compliance,Fleet Development Components; Sales Analytics; ISO/SAE 21434,Stuttgart
+EMP543,Florian Wolf,Configurator & UX,Visualization; Change Management; Requirements Engineering,Munich
+EMP544,Ulla Fiedler,Market Analysis & Pricing,Edge Computing; Parsdorf Storage Optimization; Demand-driven Disassembly,Landshut
+EMP545,Nina Böhm,Retail Systems Integration,Demand-driven Disassembly; Cyber Resilience Act Compliance; API Management,Stuttgart
+EMP546,Lena Becker,Procurement Strategy,LIN Protocol; Trademark & Labeling; Hardware-Software Co-Design,Leipzig
+EMP547,Jannik Bauer,Power Electronics,Ecosystem Strategy; Royalty Models; ISO/SAE 21434,Unterschleissheim
+EMP548,Heike Becker,Mechatronics & Actuators,NVH Optimization; Royalty Models; LIN Protocol,Munich
+EMP549,Bianca Krüger,DevOps & Platform Engineering,Configurator UX; Dealer IT Systems; Risk Assessment,Landshut
+EMP550,Lorenz Schmidt,IT Infrastructure,Edge Computing; Sales Analytics; Dealer IT Systems,Regensburg
+EMP551,Lea Moser,Legal & Compliance,Sales Analytics; Partner Portals; Interface Documentation,Leipzig
+EMP552,Ulla Fuchs,Configurator & UX,Dealer IT Systems; Discount & Promotion Management; Predictive Disassembly,Berlin
+EMP553,Kim Simon,Corporate Communications,Ecosystem Strategy; Cyber Resilience Act Compliance; Quality Standards,Stuttgart
+EMP554,Felicia Hoffmann,Retail Systems Integration,Embedded Motor Control; NBC Integration; Modular Actuator Platform,Stuttgart
+EMP555,Julian Weber,Supply Chain & Logistics,Visualization; Hardware-Software Co-Design; Power Electronics,Landshut
+EMP556,Lars Fuchs,Systems Integration,Parsdorf Storage Optimization; Change Management; Modular Actuator Platform,Leipzig
+EMP557,Yasmin Franke,Human Resources,Stock Visibility; Power Electronics; Cyber Resilience Act Compliance,Berlin
+EMP558,Zoe Schäfer,Market Analysis & Pricing,Royalty Models; Quality Standards; Edge Computing,Unterschleissheim
+EMP559,Matthias Schmitt,Product Management,Ecosystem Strategy; Fleet Development Components; Hardware-Software Co-Design,Regensburg
+EMP560,Niklas Wagner,Cybersecurity & Vehicle Security,Testing & Validation; Trademark & Labeling; Modular Actuator Platform,Munich
+EMP561,Oskar Krause,Finance & Controlling,Ordering Automation; Risk Assessment; Change Management,Eisenach
+EMP562,Bianca Schreiber,Mechatronics & Actuators,Co-Marketing Programs; Predictive Disassembly; Hardware-Software Co-Design,Unterschleissheim
+EMP563,Heike Müller,Digital Platform & Portals,NVH Optimization; Part Number Management; Edge Computing,Regensburg
+EMP564,David Winter,Retail Systems Integration,Requirements Engineering; Ecosystem Strategy; Co-Marketing Programs,Leipzig
+EMP565,Xaver Koch,Corporate Communications,Supplier Qualification; Visualization; Cost Modeling,Landshut
+EMP566,Nina Berger,Power Electronics,Predictive Disassembly; ISO/SAE 21434; Reuse Process Automation,Eisenach
+EMP567,Caroline Moser,Manufacturing Engineering,Project Management; Parts Categorization; Change Management,Eisenach
+EMP568,Ulla Seidel,Configurator & UX,Project Management; Visualization; Royalty Models,Munich
+EMP569,Zoe Schneider,Finance & Controlling,Partner Certification Programs; API Management; Demand-driven Disassembly,Regensburg
+EMP570,Katrin Böhm,Corporate Communications,ISO/SAE 21434; Standardized Interfaces; LIN Protocol,Unterschleissheim
+EMP571,Marlene Seidel,Material Science & Testing,Security Architecture; Risk Assessment; Requirements Engineering,Landshut
+EMP572,Ben Koch,Embedded Software & Controls,Sustainability KPIs; Supplier Qualification; NVH Optimization,Leipzig
+EMP573,Anna Seidel,Data Engineering & Analytics,Data Pipelines; Sustainability KPIs; Power Electronics,Leipzig
+EMP574,Florian Hartmann,Cybersecurity & Vehicle Security,Partner Certification Programs; ISO/SAE 21434; Predictive Disassembly,Unterschleissheim
+EMP575,Paula Fischer,Legal & Compliance,Risk Assessment; Co-Marketing Programs; Stock Visibility,Landshut
+EMP576,Erik Berger,Material Science & Testing,Interface Documentation; Vendor Onboarding; Trademark & Labeling,Landshut
+EMP577,Vanessa Schmidt,Data Engineering & Analytics,Process Optimization; Standardized Interfaces; Requirements Engineering,Eisenach
+EMP578,Yannic Weber,Partner Certification & Ecosystem,Royalty Models; Sales Analytics; Co-Marketing Programs,Landshut
+EMP579,Stefan Klein,Configurator & UX,Fleet Development Components; Sales Analytics; Availability & Pricing Transparency,Berlin
+EMP580,Tobias Wagner,Cybersecurity & Vehicle Security,Reuse Process Automation; Part Number Management; Parsdorf Storage Optimization,Berlin
+EMP581,Rafael Berger,IT Infrastructure,Mechatronic System Design; Testing & Validation; Security Architecture,Leipzig
+EMP582,Simon Schäfer,Quality Assurance,Cloud Architecture; Change Management; Configurator UX,Berlin
+EMP583,Robin Schmidt,Supply Chain & Logistics,Embedded Motor Control; Sustainability KPIs; ISO/SAE 21434,Munich
+EMP584,Zara Koch,Partner Certification & Ecosystem,Discount & Promotion Management; Circular Economy; Parts Categorization,Munich
+EMP585,Jonas Wagner,Circular Economy & Sustainability,Mechatronic System Design; Trademark & Labeling; Interface Documentation,Leipzig
+EMP586,Claudia Seidel,Procurement Strategy,Project Management; Dealer IT Systems; Testing & Validation,Landshut
+EMP587,Sofia Lange,Retail Systems Integration,Sales Analytics; NBC Integration; Ordering Automation,Leipzig
+EMP588,Tom Fischer,Corporate Communications,Reuse Process Automation; Vendor Onboarding; Predictive Disassembly,Stuttgart
+EMP589,Elias Schmidt,Material Science & Testing,Reuse Process Automation; Process Optimization; Royalty Models,Stuttgart
+EMP590,Vanessa Lange,Finance & Controlling,Parsdorf Storage Optimization; Circular Economy; Power Electronics,Berlin
+EMP591,Matthias Braun,Human Resources,Sales Analytics; Interface Documentation; ISO/SAE 21434,Leipzig
+EMP592,Yasmin Bauer,Product Management,Sales Analytics; Partner Certification Programs; Change Management,Stuttgart
+EMP593,Greta Kraus,Market Analysis & Pricing,Part Number Management; Process Optimization; Dealer IT Systems,Landshut
+EMP594,Dominik Becker,Configurator & UX,Bundle Configuration Logic; Cyber Resilience Act Compliance; Sales Analytics,Berlin
+EMP595,Jannik Bauer,Manufacturing Engineering,Parsdorf Storage Optimization; Digital Twin for Components; Partner Certification Programs,Dingolfing
+EMP596,Simon Schmitz,Digital Platform & Portals,Requirements Engineering; Part Number Management; Risk Assessment,Regensburg
+EMP597,Dominik Hoffmann,Mechatronics & Actuators,Circular Economy; Vendor Onboarding; ISO/SAE 21434,Regensburg
+EMP598,Niklas Lang,Corporate Communications,Part Number Management; API Management; Interface Documentation,Berlin
+EMP599,Oskar Zimmermann,Digital Platform & Portals,Trademark & Labeling; Cloud Architecture; Royalty Models,Eisenach
+EMP600,Wiebke Böhm,DevOps & Platform Engineering,Embedded Motor Control; Mechatronic System Design; Digital Twin for Components,Landshut
+EMP601,Ben Schneider,Retail Systems Integration,Quality Standards; Demand-driven Disassembly; API Management,Landshut
+EMP602,Isabel Berger,Partner Certification & Ecosystem,Parts Categorization; Bundle Configuration Logic; ISO/SAE 21434,Regensburg
+EMP603,Marlene Krause,Configurator & UX,Quality Standards; Change Management; Reuse Process Automation,Unterschleissheim
+EMP604,Robin Fischer,Manufacturing Engineering,Co-Marketing Programs; Project Management; Quality Standards,Dingolfing
+EMP605,Oskar Brandt,Product Management,Circular Economy; Fleet Development Components; Risk Assessment,Berlin
+EMP606,Sandy Franke,Systems Integration,Quality Standards; Mechatronic System Design; Security Architecture,Stuttgart
+EMP607,Lena Franke,Power Electronics,Part Number Management; Economies of Scale; Modular Actuator Platform,Unterschleissheim
+EMP608,Dominik Fuchs,Cybersecurity & Vehicle Security,Security Architecture; Parsdorf Storage Optimization; Supplier Qualification,Munich
+EMP609,Stefan Berger,Material Science & Testing,Cloud Architecture; Quality Standards; Process Optimization,Leipzig
+EMP610,Xenia Krüger,Circular Economy & Sustainability,Power Electronics; Stock Visibility; Sales Analytics,Unterschleissheim
+EMP611,Marlene Wagner,IT Infrastructure,Embedded Motor Control; Dealer IT Systems; Standardized Interfaces,Regensburg
+EMP612,Selina Winter,DevOps & Platform Engineering,Ordering Automation; Sales Analytics; NVH Optimization,Berlin
+EMP613,Jonas Bauer,Material Science & Testing,Embedded Motor Control; Co-Marketing Programs; Dealer IT Systems,Berlin
+EMP614,Zara Simon,IT Infrastructure,Supplier Qualification; Demand-driven Disassembly; Predictive Disassembly,Landshut
+EMP615,Petra Krause,Product Management,Predictive Disassembly; Parts Categorization; Dealer IT Systems,Regensburg
+EMP616,Viktor Lang,Partner Certification & Ecosystem,Economies of Scale; Cyber Resilience Act Compliance; Power Electronics,Regensburg
+EMP617,Sandy Beck,Embedded Software & Controls,Fleet Development Components; Requirements Engineering; Edge Computing,Stuttgart
+EMP618,Xenia Lehmann,Partner Certification & Ecosystem,Sales Analytics; Part Number Management; Configurator UX,Berlin
+EMP619,Luca Brandt,Quality Assurance,Data Pipelines; Change Management; Circular Economy,Leipzig
+EMP620,Simon Müller,Market Analysis & Pricing,Demand-driven Disassembly; Digital Twin for Components; Sustainability KPIs,Leipzig
+EMP621,Elena Fiedler,Product Management,Predictive Disassembly; Part Number Management; Demand-driven Disassembly,Berlin
+EMP622,Hannah Peters,Finance & Controlling,Mechatronic System Design; Economies of Scale; Hardware-Software Co-Design,Regensburg
+EMP623,Sandy Neumann,Quality Assurance,Data Pipelines; Standardized Interfaces; Risk Assessment,Munich
+EMP624,Sofia Fischer,Mechatronics & Actuators,Power Electronics; Cloud Architecture; Availability & Pricing Transparency,Eisenach
+EMP625,Wiebke Schmidt,Market Analysis & Pricing,Partner Certification Programs; Parsdorf Storage Optimization; Cyber Resilience Act Compliance,Berlin
+EMP626,Laura Beck,Market Analysis & Pricing,Trademark & Labeling; Part Number Management; Configurator UX,Dingolfing
+EMP627,Mira Berger,Partner Certification & Ecosystem,Availability & Pricing Transparency; Dealer IT Systems; User Documentation,Eisenach
+EMP628,Sebastian Braun,Data Engineering & Analytics,Requirements Engineering; ISO/SAE 21434; Edge Computing,Dingolfing
+EMP629,Ulla Maier,Supply Chain & Logistics,Stock Visibility; Process Optimization; Security Architecture,Regensburg
+EMP630,Laura Maier,Product Management,Digital Twin for Components; Ordering Automation; Mechatronic System Design,Unterschleissheim
+EMP631,Claudia Moser,Procurement Strategy,Process Optimization; Configurator UX; Availability & Pricing Transparency,Regensburg
+EMP632,Kim Franke,Market Analysis & Pricing,Configurator UX; Standardized Interfaces; Interface Documentation,Munich
+EMP633,Carla Peters,IT Infrastructure,Hardware-Software Co-Design; Modular Actuator Platform; Change Management,Leipzig
+EMP634,Xaver Koch,Mechatronics & Actuators,NBC Integration; Predictive Disassembly; LIN Protocol,Stuttgart
+EMP635,Petra Beck,Finance & Controlling,Embedded Motor Control; Bundle Configuration Logic; Mechatronic System Design,Eisenach
+EMP636,Jannik Neumann,Material Science & Testing,Fleet Development Components; Ordering Automation; Dealer IT Systems,Unterschleissheim
+EMP637,Valentin Neumann,Power Electronics,Digital Twin for Components; Stock Visibility; Process Optimization,Munich
+EMP638,Tobias Klein,Finance & Controlling,Sales Analytics; Ecosystem Strategy; Discount & Promotion Management,Landshut
+EMP639,Rafael Fischer,Mechatronics & Actuators,API Management; Fleet Development Components; Availability & Pricing Transparency,Landshut
+EMP640,Tom Fuchs,Mechatronics & Actuators,Trademark & Labeling; Reuse Process Automation; Mechatronic System Design,Dingolfing
+EMP641,Erik Brandt,DevOps & Platform Engineering,User Documentation; Visualization; Edge Computing,Leipzig
+EMP642,Kim Werner,Configurator & UX,Process Optimization; Edge Computing; Cyber Resilience Act Compliance,Landshut
+EMP643,Vanessa Krüger,Configurator & UX,Power Electronics; NVH Optimization; Fleet Development Components,Berlin
+EMP644,Robin Klein,Manufacturing Engineering,API Management; Requirements Engineering; Cyber Resilience Act Compliance,Eisenach
+EMP645,Jannik Wolf,Strategy & Innovation,Change Management; Edge Computing; Partner Portals,Eisenach
+EMP646,Matthias Kaiser,Corporate Communications,Trademark & Labeling; Reuse Process Automation; Interface Documentation,Unterschleissheim
+EMP647,Valentin Moser,Power Electronics,Process Optimization; Change Management; Royalty Models,Unterschleissheim
+EMP648,Oskar Brandt,Systems Integration,Cyber Resilience Act Compliance; API Management; Digital Twin for Components,Munich
+EMP649,Carla Arnold,Retail Systems Integration,Predictive Disassembly; Testing & Validation; Parts Categorization,Unterschleissheim
+EMP650,Florian Berger,Procurement Strategy,Cloud Architecture; Predictive Disassembly; Fleet Development Components,Landshut
+EMP651,Kim Kaiser,IT Infrastructure,Risk Assessment; Reuse Process Automation; Vendor Onboarding,Dingolfing
+EMP652,Michael Schreiber,Quality Assurance,Partner Portals; Requirements Engineering; Royalty Models,Eisenach
+EMP653,Lars Koch,Retail Systems Integration,Royalty Models; Fleet Development Components; Circular Economy,Berlin
+EMP654,David Wolf,Product Management,Cost Modeling; Fleet Development Components; Cyber Resilience Act Compliance,Dingolfing
+EMP655,Hannes Böhm,Power Electronics,Cloud Architecture; Hardware-Software Co-Design; Standardized Interfaces,Landshut
+EMP656,Bianca Kaiser,Market Analysis & Pricing,Project Management; Power Electronics; Parsdorf Storage Optimization,Stuttgart
+EMP657,Isabel Moser,Manufacturing Engineering,Modular Actuator Platform; Bundle Configuration Logic; Dealer IT Systems,Stuttgart
+EMP658,Elias Meyer,Strategy & Innovation,Supplier Qualification; Data Pipelines; Sustainability KPIs,Stuttgart
+EMP659,Viktor Becker,Supply Chain & Logistics,Change Management; Testing & Validation; Dealer IT Systems,Leipzig
+EMP660,Rita Müller,Configurator & UX,API Management; Process Optimization; Security Architecture,Stuttgart
+EMP661,Olivia Lang,Cybersecurity & Vehicle Security,Availability & Pricing Transparency; Reuse Process Automation; Demand-driven Disassembly,Leipzig
+EMP662,Hannes Schneider,Supply Chain & Logistics,Availability & Pricing Transparency; NBC Integration; Co-Marketing Programs,Munich
+EMP663,Jennifer Hartmann,Product Management,Reuse Process Automation; Predictive Disassembly; Circular Economy,Dingolfing
+EMP664,Zara Vogel,Quality Assurance,Project Management; Edge Computing; Requirements Engineering,Eisenach
+EMP665,Stefan Simon,Configurator & UX,Stock Visibility; API Management; Discount & Promotion Management,Berlin
+EMP666,Tobias Fiedler,Supply Chain & Logistics,Royalty Models; Embedded Motor Control; Partner Certification Programs,Landshut
+EMP667,Zara Zimmermann,Quality Assurance,Bundle Configuration Logic; Standardized Interfaces; Hardware-Software Co-Design,Stuttgart
+EMP668,Elena Haas,Manufacturing Engineering,Hardware-Software Co-Design; Co-Marketing Programs; Ecosystem Strategy,Munich
+EMP669,Nina Winter,Mechatronics & Actuators,Partner Portals; Requirements Engineering; Ordering Automation,Munich
+EMP670,Kim Hoffmann,Systems Integration,Ordering Automation; Ecosystem Strategy; API Management,Unterschleissheim
+EMP671,Lea Lehmann,Strategy & Innovation,Requirements Engineering; User Documentation; Stock Visibility,Munich
+EMP672,Lars Schreiber,Embedded Software & Controls,Requirements Engineering; Change Management; Parts Categorization,Unterschleissheim
+EMP673,Bianca Becker,Strategy & Innovation,User Documentation; Bundle Configuration Logic; Stock Visibility,Unterschleissheim
+EMP674,Laura Schwarz,Power Electronics,Stock Visibility; NVH Optimization; Standardized Interfaces,Stuttgart
+EMP675,Michael Becker,Digital Platform & Portals,Partner Portals; API Management; Hardware-Software Co-Design,Leipzig
+EMP676,Theresa Krüger,Power Electronics,Cyber Resilience Act Compliance; Cloud Architecture; Vendor Onboarding,Dingolfing
+EMP677,Noah Weber,Partner Certification & Ecosystem,Data Pipelines; NBC Integration; Process Optimization,Eisenach
+EMP678,Noah Klein,Retail Systems Integration,Partner Certification Programs; Edge Computing; Sustainability KPIs,Eisenach
+EMP679,Timo Richter,Systems Integration,Quality Standards; Discount & Promotion Management; Reuse Process Automation,Unterschleissheim
+EMP680,Fabian Peters,Corporate Communications,Circular Economy; Cyber Resilience Act Compliance; Digital Twin for Components,Stuttgart
+EMP681,Rafael Hartmann,Cybersecurity & Vehicle Security,Cloud Architecture; Change Management; ISO/SAE 21434,Munich
+EMP682,Markus Schäfer,Legal & Compliance,Quality Standards; Data Pipelines; Visualization,Munich
+EMP683,Elena Lange,Quality Assurance,Stock Visibility; NVH Optimization; Power Electronics,Berlin
+EMP684,Caroline Lange,Procurement Strategy,Cost Modeling; Cloud Architecture; Quality Standards,Stuttgart
+EMP685,Nina Kaiser,Configurator & UX,Modular Actuator Platform; Digital Twin for Components; Dealer IT Systems,Berlin
+EMP686,Katrin Werner,Legal & Compliance,Bundle Configuration Logic; Requirements Engineering; Supplier Qualification,Munich
+EMP687,Florian Peters,Product Management,Co-Marketing Programs; Parts Categorization; Process Optimization,Unterschleissheim
+EMP688,Timo Bauer,Mechatronics & Actuators,Trademark & Labeling; NBC Integration; Bundle Configuration Logic,Leipzig
+EMP689,Hannah Richter,Circular Economy & Sustainability,Project Management; Sustainability KPIs; Parsdorf Storage Optimization,Berlin
+EMP690,Quirin Schreiber,Power Electronics,Change Management; Co-Marketing Programs; Risk Assessment,Stuttgart
+EMP691,Lea Schneider,Configurator & UX,Trademark & Labeling; Security Architecture; Data Pipelines,Eisenach
+EMP692,Jonas Kraus,Quality Assurance,Reuse Process Automation; Partner Certification Programs; Fleet Development Components,Regensburg
+EMP693,Lars Koch,Cybersecurity & Vehicle Security,Cyber Resilience Act Compliance; Embedded Motor Control; Mechatronic System Design,Regensburg
+EMP694,Rita Haas,Circular Economy & Sustainability,Cost Modeling; Edge Computing; Partner Certification Programs,Dingolfing
+EMP695,Ulla Hoffmann,Finance & Controlling,Demand-driven Disassembly; Digital Twin for Components; LIN Protocol,Dingolfing
+EMP696,Matthias Simon,Strategy & Innovation,Power Electronics; LIN Protocol; Digital Twin for Components,Unterschleissheim
+EMP697,Erik Schreiber,Material Science & Testing,Testing & Validation; API Management; Requirements Engineering,Eisenach
+EMP698,Kim Böhm,Systems Integration,Discount & Promotion Management; Sales Analytics; Dealer IT Systems,Munich
+EMP699,Rafael Schreiber,Legal & Compliance,Embedded Motor Control; Economies of Scale; Predictive Disassembly,Stuttgart
+EMP700,Jannik Peters,Data Engineering & Analytics,Data Pipelines; Testing & Validation; Change Management,Regensburg
+EMP701,Rita Klein,Supply Chain & Logistics,Mechatronic System Design; Royalty Models; Partner Portals,Dingolfing
+EMP702,Anna Fiedler,Corporate Communications,Stock Visibility; Hardware-Software Co-Design; Edge Computing,Regensburg
+EMP703,Oskar Hofmann,DevOps & Platform Engineering,Risk Assessment; Cyber Resilience Act Compliance; Co-Marketing Programs,Munich
+EMP704,Hannes Kaiser,Retail Systems Integration,Partner Certification Programs; Process Optimization; Discount & Promotion Management,Leipzig
+EMP705,Lorenz Kaiser,Cybersecurity & Vehicle Security,Co-Marketing Programs; Ecosystem Strategy; Digital Twin for Components,Munich
+EMP706,Nina Kaiser,Digital Platform & Portals,Supplier Qualification; Mechatronic System Design; Risk Assessment,Eisenach
+EMP707,Zara Schmitt,Product Management,Economies of Scale; Project Management; Parts Categorization,Regensburg
+EMP708,Katrin Arnold,Legal & Compliance,Data Pipelines; Ecosystem Strategy; Stock Visibility,Munich
+EMP709,Yannic Scholz,Procurement Strategy,Edge Computing; Security Architecture; Vendor Onboarding,Leipzig
+EMP710,Julian Hoffmann,Product Management,Visualization; Embedded Motor Control; NVH Optimization,Berlin
+EMP711,Kim Schmidt,Data Engineering & Analytics,Part Number Management; Demand-driven Disassembly; Stock Visibility,Dingolfing
+EMP712,Clara Moser,IT Infrastructure,Dealer IT Systems; Ordering Automation; Stock Visibility,Munich
+EMP713,Tom Kaiser,Strategy & Innovation,NBC Integration; Partner Certification Programs; Vendor Onboarding,Regensburg
+EMP714,Erik Moser,Human Resources,Vendor Onboarding; API Management; Digital Twin for Components,Regensburg
+EMP715,Bianca Peters,DevOps & Platform Engineering,Reuse Process Automation; Circular Economy; Availability & Pricing Transparency,Eisenach
+EMP716,Stefan Fiedler,Product Management,Demand-driven Disassembly; Modular Actuator Platform; Standardized Interfaces,Regensburg
+EMP717,Vanessa Richter,Procurement Strategy,Risk Assessment; Dealer IT Systems; Parts Categorization,Landshut
+EMP718,Bianca Lange,Circular Economy & Sustainability,User Documentation; Project Management; Standardized Interfaces,Leipzig
+EMP719,Marcel Richter,Data Engineering & Analytics,NVH Optimization; Power Electronics; Circular Economy,Unterschleissheim
+EMP720,Mira Berger,DevOps & Platform Engineering,Requirements Engineering; Availability & Pricing Transparency; Fleet Development Components,Leipzig
+EMP721,Clara Neumann,DevOps & Platform Engineering,Cloud Architecture; Economies of Scale; Power Electronics,Unterschleissheim
+EMP722,Hannes Werner,Finance & Controlling,Availability & Pricing Transparency; Bundle Configuration Logic; Mechatronic System Design,Dingolfing
+EMP723,Bianca Schwarz,Human Resources,Ordering Automation; Requirements Engineering; Sales Analytics,Munich
+EMP724,Julia Berger,Corporate Communications,Process Optimization; Configurator UX; Change Management,Landshut
+EMP725,Selina Koch,Material Science & Testing,Mechatronic System Design; Sales Analytics; Standardized Interfaces,Regensburg
+EMP726,Olivia Schäfer,Manufacturing Engineering,Supplier Qualification; Partner Certification Programs; Demand-driven Disassembly,Munich
+EMP727,Marlene Böhm,Material Science & Testing,Edge Computing; Trademark & Labeling; Partner Certification Programs,Landshut
+EMP728,Isabel Schwarz,Partner Certification & Ecosystem,Sustainability KPIs; Availability & Pricing Transparency; Standardized Interfaces,Munich
+EMP729,Clara Lang,Digital Platform & Portals,Data Pipelines; Royalty Models; Requirements Engineering,Landshut
+EMP730,Carla Schwarz,Systems Integration,Security Architecture; Circular Economy; Vendor Onboarding,Munich
+EMP731,Zoe Schmitt,Corporate Communications,Fleet Development Components; Economies of Scale; ISO/SAE 21434,Leipzig
+EMP732,Julian Huber,Retail Systems Integration,Modular Actuator Platform; Hardware-Software Co-Design; Security Architecture,Unterschleissheim
+EMP733,Jannik Seidel,Procurement Strategy,Change Management; Data Pipelines; Cyber Resilience Act Compliance,Dingolfing
+EMP734,Katrin Koch,Legal & Compliance,Cost Modeling; Parsdorf Storage Optimization; Digital Twin for Components,Eisenach
+EMP735,Paula Werner,IT Infrastructure,Mechatronic System Design; LIN Protocol; Sustainability KPIs,Unterschleissheim
+EMP736,Moritz Schäfer,Strategy & Innovation,Mechatronic System Design; Ordering Automation; Testing & Validation,Berlin
+EMP737,Sofia Schmitt,IT Infrastructure,Sales Analytics; Economies of Scale; NVH Optimization,Dingolfing
+EMP738,Jannik Krüger,Human Resources,Ecosystem Strategy; Partner Certification Programs; Power Electronics,Unterschleissheim
+EMP739,Fabian Bauer,Data Engineering & Analytics,Interface Documentation; Ordering Automation; Ecosystem Strategy,Landshut
+EMP740,Markus Franke,Human Resources,Circular Economy; Dealer IT Systems; Modular Actuator Platform,Leipzig
+EMP741,Anna Wolf,Supply Chain & Logistics,Digital Twin for Components; Power Electronics; Predictive Disassembly,Stuttgart
+EMP742,Bianca Braun,Mechatronics & Actuators,Cyber Resilience Act Compliance; Ordering Automation; ISO/SAE 21434,Unterschleissheim
+EMP743,Selina Klein,DevOps & Platform Engineering,Parsdorf Storage Optimization; Cost Modeling; Reuse Process Automation,Munich
+EMP744,Isabel Huber,Strategy & Innovation,Process Optimization; Predictive Disassembly; Project Management,Munich
+EMP745,Sven Bauer,Data Engineering & Analytics,Cloud Architecture; Project Management; Availability & Pricing Transparency,Munich
+EMP746,Clara Huber,Mechatronics & Actuators,Reuse Process Automation; Standardized Interfaces; Stock Visibility,Leipzig
+EMP747,Niklas Fuchs,Power Electronics,Cyber Resilience Act Compliance; Sustainability KPIs; Fleet Development Components,Munich
+EMP748,Xaver Schmitz,Corporate Communications,Parts Categorization; Project Management; Supplier Qualification,Regensburg
+EMP749,Caroline Maier,Circular Economy & Sustainability,Bundle Configuration Logic; Risk Assessment; Power Electronics,Stuttgart
+EMP750,Selina Hofmann,Partner Certification & Ecosystem,Edge Computing; Project Management; Data Pipelines,Eisenach
+EMP751,Jonas Becker,DevOps & Platform Engineering,Demand-driven Disassembly; ISO/SAE 21434; Circular Economy,Leipzig
+EMP752,Viktor Zimmermann,Circular Economy & Sustainability,Partner Portals; Edge Computing; NBC Integration,Stuttgart
+EMP753,Sandy Wagner,Procurement Strategy,Ecosystem Strategy; Demand-driven Disassembly; User Documentation,Landshut
+EMP754,Oskar Simon,Systems Integration,LIN Protocol; Project Management; Power Electronics,Berlin
+EMP755,Ben Lang,DevOps & Platform Engineering,Edge Computing; Fleet Development Components; Requirements Engineering,Landshut
+EMP756,Jannik Franke,Data Engineering & Analytics,Quality Standards; Requirements Engineering; Partner Portals,Landshut
+EMP757,Noah Hofmann,Embedded Software & Controls,Mechatronic System Design; User Documentation; Standardized Interfaces,Landshut
+EMP758,Philipp Müller,Product Management,Interface Documentation; Power Electronics; Cloud Architecture,Landshut
+EMP759,Tom Moser,Cybersecurity & Vehicle Security,Trademark & Labeling; Security Architecture; Requirements Engineering,Dingolfing
+EMP760,Felix Franke,Manufacturing Engineering,Project Management; Testing & Validation; Reuse Process Automation,Regensburg
+EMP761,Katrin Zimmermann,Mechatronics & Actuators,API Management; Configurator UX; Dealer IT Systems,Leipzig
+EMP762,Tom Schreiber,Supply Chain & Logistics,Risk Assessment; Cloud Architecture; Security Architecture,Dingolfing
+EMP763,Tom Maier,Retail Systems Integration,Power Electronics; Modular Actuator Platform; ISO/SAE 21434,Leipzig
+EMP764,Tom Maier,Strategy & Innovation,Data Pipelines; User Documentation; Vendor Onboarding,Dingolfing
+EMP765,Vanessa Vogel,Procurement Strategy,Testing & Validation; Sustainability KPIs; API Management,Regensburg
+EMP766,Xenia Wolf,Cybersecurity & Vehicle Security,Requirements Engineering; Ecosystem Strategy; Power Electronics,Regensburg
+EMP767,Jennifer Fischer,Partner Certification & Ecosystem,Edge Computing; Fleet Development Components; User Documentation,Dingolfing
+EMP768,Philipp Klein,Procurement Strategy,ISO/SAE 21434; Mechatronic System Design; Visualization,Unterschleissheim
+EMP769,Hannah Meyer,Human Resources,API Management; Edge Computing; Trademark & Labeling,Dingolfing
+EMP770,Nina Lehmann,DevOps & Platform Engineering,Fleet Development Components; Parsdorf Storage Optimization; Ordering Automation,Eisenach
+EMP771,Niklas Kraus,Digital Platform & Portals,User Documentation; Embedded Motor Control; Visualization,Unterschleissheim
+EMP772,Paula Böhm,Circular Economy & Sustainability,API Management; Cyber Resilience Act Compliance; Modular Actuator Platform,Leipzig
+EMP773,Greta Krüger,Power Electronics,Power Electronics; NVH Optimization; Edge Computing,Munich
+EMP774,Hannes Lehmann,Digital Platform & Portals,Edge Computing; LIN Protocol; Modular Actuator Platform,Munich
+EMP775,Viktor Kraus,Supply Chain & Logistics,Fleet Development Components; Trademark & Labeling; Sustainability KPIs,Munich
+EMP776,Hannah Lehmann,Retail Systems Integration,Cost Modeling; Cloud Architecture; Modular Actuator Platform,Stuttgart
+EMP777,Hannes Fischer,Partner Certification & Ecosystem,Ecosystem Strategy; Ordering Automation; Part Number Management,Unterschleissheim
+EMP778,Jennifer Kaiser,Supply Chain & Logistics,Co-Marketing Programs; Fleet Development Components; Requirements Engineering,Eisenach
+EMP779,Matthias Koch,Quality Assurance,ISO/SAE 21434; Testing & Validation; Partner Certification Programs,Regensburg
+EMP780,Dominik Schwarz,Corporate Communications,Quality Standards; Mechatronic System Design; Testing & Validation,Stuttgart
+EMP781,Carla Winter,Supply Chain & Logistics,Part Number Management; Risk Assessment; Change Management,Stuttgart
+EMP782,Sven Weber,Manufacturing Engineering,Availability & Pricing Transparency; NVH Optimization; Demand-driven Disassembly,Leipzig
+EMP783,Julia Kraus,Finance & Controlling,Data Pipelines; Trademark & Labeling; Risk Assessment,Stuttgart
+EMP784,Lars Böhm,Material Science & Testing,Reuse Process Automation; Co-Marketing Programs; Vendor Onboarding,Landshut
+EMP785,Ursula Zimmermann,Quality Assurance,Interface Documentation; Ecosystem Strategy; Availability & Pricing Transparency,Leipzig
+EMP786,Rafael Schmidt,Corporate Communications,Power Electronics; Ecosystem Strategy; Supplier Qualification,Stuttgart
+EMP787,Rafael Schmitz,Embedded Software & Controls,Part Number Management; ISO/SAE 21434; Trademark & Labeling,Dingolfing
+EMP788,Stefan Weber,Market Analysis & Pricing,API Management; ISO/SAE 21434; Parsdorf Storage Optimization,Eisenach
+EMP789,Julia Richter,Corporate Communications,NBC Integration; Mechatronic System Design; Parsdorf Storage Optimization,Eisenach
+EMP790,Marlene Fischer,Cybersecurity & Vehicle Security,Royalty Models; ISO/SAE 21434; Parts Categorization,Unterschleissheim
+EMP791,Vanessa Müller,Supply Chain & Logistics,Supplier Qualification; Hardware-Software Co-Design; Mechatronic System Design,Eisenach
+EMP792,Lorenz Wolf,Data Engineering & Analytics,Power Electronics; Reuse Process Automation; Vendor Onboarding,Leipzig
+EMP793,Lea Meyer,IT Infrastructure,Configurator UX; Standardized Interfaces; Interface Documentation,Regensburg
+EMP794,Yannic Hoffmann,Product Management,Partner Certification Programs; Risk Assessment; Visualization,Munich
+EMP795,Oskar Fischer,Power Electronics,Standardized Interfaces; Embedded Motor Control; Power Electronics,Leipzig
+EMP796,Lena Haas,Quality Assurance,Supplier Qualification; Demand-driven Disassembly; Visualization,Berlin
+EMP797,Carla Vogel,Manufacturing Engineering,Partner Certification Programs; Process Optimization; Demand-driven Disassembly,Berlin
+EMP798,Anna Beck,IT Infrastructure,Project Management; LIN Protocol; Visualization,Munich
+EMP799,Julian Scholz,Configurator & UX,Configurator UX; Data Pipelines; Requirements Engineering,Regensburg
+EMP800,Paul Klein,Embedded Software & Controls,Project Management; Economies of Scale; Requirements Engineering,Unterschleissheim
+EMP801,Noah Böhm,Cybersecurity & Vehicle Security,Hardware-Software Co-Design; Economies of Scale; Digital Twin for Components,Landshut
+EMP802,Laura Bauer,Circular Economy & Sustainability,Cloud Architecture; Digital Twin for Components; Quality Standards,Dingolfing
+EMP803,Valentin Beck,Mechatronics & Actuators,Edge Computing; Supplier Qualification; Modular Actuator Platform,Munich
+EMP804,Bianca Schäfer,Configurator & UX,Discount & Promotion Management; Ordering Automation; Bundle Configuration Logic,Unterschleissheim
+EMP805,Timo Richter,Systems Integration,Co-Marketing Programs; ISO/SAE 21434; Mechatronic System Design,Regensburg
+EMP806,Michael Schwarz,IT Infrastructure,Project Management; Requirements Engineering; Ecosystem Strategy,Landshut
+EMP807,Dominik Werner,Partner Certification & Ecosystem,Fleet Development Components; User Documentation; Part Number Management,Berlin
+EMP808,Noah Meyer,Supply Chain & Logistics,User Documentation; Ordering Automation; Royalty Models,Regensburg
+EMP809,Timo Berger,Mechatronics & Actuators,Hardware-Software Co-Design; Modular Actuator Platform; Vendor Onboarding,Munich
+EMP810,Robin Kraus,Material Science & Testing,Reuse Process Automation; Discount & Promotion Management; Stock Visibility,Landshut
+EMP811,Sandy Richter,Configurator & UX,Economies of Scale; Vendor Onboarding; ISO/SAE 21434,Dingolfing
+EMP812,Tom Lehmann,Cybersecurity & Vehicle Security,Availability & Pricing Transparency; Bundle Configuration Logic; Modular Actuator Platform,Munich
+EMP813,Selina Weber,Corporate Communications,Change Management; Part Number Management; Configurator UX,Dingolfing
+EMP814,Philipp Schmitt,Power Electronics,Mechatronic System Design; Testing & Validation; Process Optimization,Stuttgart
+EMP815,Marlene Klein,IT Infrastructure,Hardware-Software Co-Design; Dealer IT Systems; Security Architecture,Regensburg
+EMP816,Markus Hoffmann,Corporate Communications,ISO/SAE 21434; Parsdorf Storage Optimization; Demand-driven Disassembly,Leipzig
+EMP817,Julia Krause,Data Engineering & Analytics,Supplier Qualification; Change Management; Edge Computing,Eisenach
+EMP818,Hannes Haas,Cybersecurity & Vehicle Security,Power Electronics; Parts Categorization; Interface Documentation,Berlin
+EMP819,Theresa Scholz,Strategy & Innovation,Cloud Architecture; Security Architecture; Power Electronics,Dingolfing
+EMP820,Lorenz Huber,Manufacturing Engineering,Data Pipelines; Visualization; Project Management,Unterschleissheim
+EMP821,Petra Haas,Product Management,Sales Analytics; Hardware-Software Co-Design; Royalty Models,Regensburg
+EMP822,Tom Schmitt,IT Infrastructure,Sales Analytics; Ecosystem Strategy; Discount & Promotion Management,Dingolfing
+EMP823,Nina Fischer,Procurement Strategy,Interface Documentation; ISO/SAE 21434; API Management,Dingolfing
+EMP824,Tom Schmidt,Market Analysis & Pricing,Vendor Onboarding; ISO/SAE 21434; Part Number Management,Munich
+EMP825,Mira Arnold,Procurement Strategy,Modular Actuator Platform; Embedded Motor Control; Ecosystem Strategy,Landshut
+EMP826,Philipp Simon,Cybersecurity & Vehicle Security,Ecosystem Strategy; Partner Portals; Dealer IT Systems,Dingolfing
+EMP827,Hannes Hoffmann,Data Engineering & Analytics,Visualization; Power Electronics; Partner Portals,Berlin
+EMP828,Yannic Maier,DevOps & Platform Engineering,Availability & Pricing Transparency; Ecosystem Strategy; Fleet Development Components,Leipzig
+EMP829,Philipp Moser,Configurator & UX,Parsdorf Storage Optimization; Hardware-Software Co-Design; Standardized Interfaces,Unterschleissheim
+EMP830,Paul Wolf,Corporate Communications,Change Management; Cloud Architecture; Bundle Configuration Logic,Unterschleissheim
+EMP831,Greta Schmidt,Strategy & Innovation,Sales Analytics; Demand-driven Disassembly; Availability & Pricing Transparency,Unterschleissheim
+EMP832,Selina Seidel,Retail Systems Integration,Discount & Promotion Management; Part Number Management; Cyber Resilience Act Compliance,Dingolfing
+EMP833,Sebastian Meyer,DevOps & Platform Engineering,Project Management; Power Electronics; Cost Modeling,Eisenach
+EMP834,Marlene Schreiber,Mechatronics & Actuators,Quality Standards; Predictive Disassembly; Demand-driven Disassembly,Munich
+EMP835,Katrin Scholz,Procurement Strategy,Availability & Pricing Transparency; NBC Integration; Discount & Promotion Management,Stuttgart
+EMP836,Jannik Fuchs,Product Management,Cyber Resilience Act Compliance; Predictive Disassembly; ISO/SAE 21434,Eisenach
+EMP837,Oskar Berger,Digital Platform & Portals,Power Electronics; Testing & Validation; Cloud Architecture,Berlin
+EMP838,Carla Scholz,Partner Certification & Ecosystem,Process Optimization; Embedded Motor Control; Economies of Scale,Dingolfing
+EMP839,Lea Franke,Quality Assurance,Risk Assessment; Discount & Promotion Management; Cost Modeling,Eisenach
+EMP840,Wiebke Zimmermann,Procurement Strategy,Interface Documentation; Reuse Process Automation; Ecosystem Strategy,Unterschleissheim
+EMP841,Vanessa Wagner,Power Electronics,User Documentation; LIN Protocol; Royalty Models,Munich
+EMP842,Claudia Becker,Finance & Controlling,Testing & Validation; Requirements Engineering; Demand-driven Disassembly,Leipzig
+EMP843,Fabian Fischer,Partner Certification & Ecosystem,Digital Twin for Components; Process Optimization; Circular Economy,Leipzig
+EMP844,Carla Lange,Human Resources,Stock Visibility; Modular Actuator Platform; NBC Integration,Eisenach
+EMP845,Ursula Weber,IT Infrastructure,Trademark & Labeling; Requirements Engineering; Change Management,Leipzig
+EMP846,Jennifer Lange,Circular Economy & Sustainability,Testing & Validation; Partner Certification Programs; Bundle Configuration Logic,Eisenach
+EMP847,Sandy Peters,Cybersecurity & Vehicle Security,Ecosystem Strategy; Royalty Models; Change Management,Leipzig
+EMP848,Kim Weber,Power Electronics,ISO/SAE 21434; LIN Protocol; Parsdorf Storage Optimization,Berlin
+EMP849,Lars Fuchs,IT Infrastructure,NBC Integration; Fleet Development Components; Part Number Management,Eisenach
+EMP850,Tobias Wagner,Retail Systems Integration,Trademark & Labeling; User Documentation; Fleet Development Components,Munich
+EMP851,Lea Brandt,Corporate Communications,NBC Integration; Dealer IT Systems; Quality Standards,Stuttgart
+EMP852,Caroline Zimmermann,Strategy & Innovation,Cloud Architecture; Supplier Qualification; Availability & Pricing Transparency,Eisenach
+EMP853,Moritz Schäfer,Legal & Compliance,Part Number Management; Digital Twin for Components; Risk Assessment,Unterschleissheim
+EMP854,Kim Kraus,Material Science & Testing,Quality Standards; Vendor Onboarding; ISO/SAE 21434,Leipzig
+EMP855,Tom Meyer,Embedded Software & Controls,ISO/SAE 21434; Quality Standards; Interface Documentation,Eisenach
+EMP856,Laura Schmidt,Manufacturing Engineering,Interface Documentation; Partner Portals; Hardware-Software Co-Design,Stuttgart
+EMP857,Theresa Weber,Retail Systems Integration,Sales Analytics; Data Pipelines; Parsdorf Storage Optimization,Stuttgart
+EMP858,Ben Becker,Embedded Software & Controls,Embedded Motor Control; Stock Visibility; Fleet Development Components,Leipzig
+EMP859,Lorenz Wolf,Strategy & Innovation,Visualization; Co-Marketing Programs; Testing & Validation,Stuttgart
+EMP860,Rafael Schmitz,Mechatronics & Actuators,Risk Assessment; Cost Modeling; Trademark & Labeling,Leipzig
+EMP861,Lena Schneider,Circular Economy & Sustainability,NBC Integration; LIN Protocol; Standardized Interfaces,Dingolfing
+EMP862,Stefan Schmitt,Retail Systems Integration,Mechatronic System Design; Digital Twin for Components; Demand-driven Disassembly,Dingolfing
+EMP863,Yasmin Lange,Quality Assurance,Bundle Configuration Logic; Part Number Management; Configurator UX,Munich
+EMP864,Nina Becker,DevOps & Platform Engineering,Bundle Configuration Logic; Stock Visibility; Configurator UX,Leipzig
+EMP865,Valentin Wolf,Finance & Controlling,NBC Integration; Risk Assessment; Requirements Engineering,Dingolfing
+EMP866,Tobias Werner,Strategy & Innovation,Reuse Process Automation; Security Architecture; Standardized Interfaces,Stuttgart
+EMP867,Markus Krüger,Product Management,Partner Portals; Parsdorf Storage Optimization; Ecosystem Strategy,Leipzig
+EMP868,Jennifer Richter,Data Engineering & Analytics,Vendor Onboarding; API Management; Co-Marketing Programs,Eisenach
+EMP869,Nina Müller,Systems Integration,Ordering Automation; Dealer IT Systems; Configurator UX,Dingolfing
+EMP870,Vanessa Schmidt,Quality Assurance,Reuse Process Automation; Discount & Promotion Management; Partner Portals,Landshut
+EMP871,Tom Haas,IT Infrastructure,Parts Categorization; Dealer IT Systems; Digital Twin for Components,Unterschleissheim
+EMP872,Erik Franke,Quality Assurance,Vendor Onboarding; Cloud Architecture; Data Pipelines,Stuttgart
+EMP873,Bianca Schneider,Power Electronics,Discount & Promotion Management; Cost Modeling; Ordering Automation,Leipzig
+EMP874,Quirin Müller,Supply Chain & Logistics,Parts Categorization; Security Architecture; User Documentation,Berlin
+EMP875,Nina Fischer,Power Electronics,Visualization; Part Number Management; Supplier Qualification,Landshut
+EMP876,Selina Hofmann,Procurement Strategy,Sustainability KPIs; Risk Assessment; Data Pipelines,Landshut
+EMP877,Ursula Berger,Material Science & Testing,Ecosystem Strategy; Partner Certification Programs; Power Electronics,Munich
+EMP878,Matthias Richter,Finance & Controlling,Cloud Architecture; Supplier Qualification; Edge Computing,Regensburg
+EMP879,Valentin Schreiber,Supply Chain & Logistics,Sales Analytics; Part Number Management; Cloud Architecture,Eisenach
+EMP880,Yannic Brandt,Supply Chain & Logistics,Project Management; Testing & Validation; ISO/SAE 21434,Unterschleissheim
+EMP881,Greta Wolf,Systems Integration,Power Electronics; Mechatronic System Design; API Management,Dingolfing
+EMP882,Yannic Zimmermann,Market Analysis & Pricing,Co-Marketing Programs; Standardized Interfaces; Modular Actuator Platform,Regensburg
+EMP883,Valentin Meyer,Legal & Compliance,Partner Certification Programs; NVH Optimization; Risk Assessment,Eisenach
+EMP884,Katharina Schreiber,Strategy & Innovation,Visualization; Cost Modeling; Sales Analytics,Stuttgart
+EMP885,Erik Meyer,Strategy & Innovation,Visualization; Partner Certification Programs; Security Architecture,Unterschleissheim
+EMP886,Luca Fuchs,Material Science & Testing,Cyber Resilience Act Compliance; Economies of Scale; Modular Actuator Platform,Munich
+EMP887,Viktor Lange,Quality Assurance,Partner Certification Programs; Economies of Scale; Stock Visibility,Leipzig
+EMP888,Oskar Fischer,Manufacturing Engineering,Standardized Interfaces; Ecosystem Strategy; Co-Marketing Programs,Munich
+EMP889,Elena Brandt,IT Infrastructure,Part Number Management; Risk Assessment; Power Electronics,Unterschleissheim
+EMP890,Elias Scholz,Human Resources,Visualization; Data Pipelines; NVH Optimization,Stuttgart
+EMP891,Niklas Schreiber,Systems Integration,Demand-driven Disassembly; Predictive Disassembly; Modular Actuator Platform,Leipzig
+EMP892,Timo Fischer,Quality Assurance,Testing & Validation; Hardware-Software Co-Design; Economies of Scale,Regensburg
+EMP893,Erik Lange,Market Analysis & Pricing,Interface Documentation; Power Electronics; Quality Standards,Regensburg
+EMP894,Oskar Schreiber,Configurator & UX,User Documentation; Part Number Management; Cloud Architecture,Berlin
+EMP895,Olivia Böhm,Digital Platform & Portals,Cloud Architecture; Embedded Motor Control; Testing & Validation,Dingolfing
+EMP896,Elias Weber,Manufacturing Engineering,Data Pipelines; Parsdorf Storage Optimization; Demand-driven Disassembly,Unterschleissheim
+EMP897,Noah Weber,Supply Chain & Logistics,Partner Certification Programs; Partner Portals; Discount & Promotion Management,Unterschleissheim
+EMP898,Xaver Kaiser,Power Electronics,Hardware-Software Co-Design; LIN Protocol; Discount & Promotion Management,Munich
+EMP899,Sandy Haas,Finance & Controlling,Power Electronics; Configurator UX; Embedded Motor Control,Munich
+EMP900,Philipp Brandt,Partner Certification & Ecosystem,Co-Marketing Programs; Supplier Qualification; Requirements Engineering,Regensburg
+EMP901,Moritz Kraus,Procurement Strategy,Security Architecture; Mechatronic System Design; API Management,Stuttgart
+EMP902,Niklas Maier,Strategy & Innovation,Fleet Development Components; Part Number Management; Testing & Validation,Landshut
+EMP903,Xaver Fiedler,Human Resources,Sustainability KPIs; Parts Categorization; Predictive Disassembly,Berlin
+EMP904,Simon Schreiber,Configurator & UX,Part Number Management; Bundle Configuration Logic; Process Optimization,Landshut
+EMP905,Claudia Weber,Configurator & UX,Quality Standards; Cost Modeling; Project Management,Munich
+EMP906,Valentin Berger,Configurator & UX,Security Architecture; Change Management; Cost Modeling,Eisenach
+EMP907,Ulla Franke,Digital Platform & Portals,Mechatronic System Design; Partner Certification Programs; Vendor Onboarding,Unterschleissheim
+EMP908,Vanessa Hartmann,Legal & Compliance,Vendor Onboarding; Visualization; Cloud Architecture,Landshut
+EMP909,Heike Fischer,Circular Economy & Sustainability,Part Number Management; Economies of Scale; Mechatronic System Design,Munich
+EMP910,Paula Wolf,Human Resources,Quality Standards; Sales Analytics; Data Pipelines,Eisenach
+EMP911,Felicia Wolf,Finance & Controlling,Bundle Configuration Logic; Royalty Models; Co-Marketing Programs,Berlin
+EMP912,Felicia Meyer,Digital Platform & Portals,Dealer IT Systems; Circular Economy; Reuse Process Automation,Munich
+EMP913,Quirin Arnold,Legal & Compliance,ISO/SAE 21434; NBC Integration; Trademark & Labeling,Leipzig
+EMP914,Zoe Zimmermann,Cybersecurity & Vehicle Security,Edge Computing; Risk Assessment; Sustainability KPIs,Leipzig
+EMP915,Florian Peters,Product Management,Dealer IT Systems; Cloud Architecture; Fleet Development Components,Landshut
+EMP916,Ulla Lehmann,Partner Certification & Ecosystem,Sales Analytics; Co-Marketing Programs; Partner Certification Programs,Regensburg
+EMP917,Jonas Wolf,Partner Certification & Ecosystem,Partner Certification Programs; Visualization; Vendor Onboarding,Munich
+EMP918,Lars Böhm,Material Science & Testing,Interface Documentation; Project Management; Trademark & Labeling,Munich
+EMP919,Tobias Koch,Corporate Communications,Quality Standards; Vendor Onboarding; Cyber Resilience Act Compliance,Landshut
+EMP920,Kim Schmitt,Quality Assurance,Visualization; Co-Marketing Programs; Cyber Resilience Act Compliance,Leipzig
+EMP921,Yannic Seidel,Market Analysis & Pricing,Cyber Resilience Act Compliance; Hardware-Software Co-Design; Economies of Scale,Berlin
+EMP922,Ben Lehmann,Strategy & Innovation,API Management; Requirements Engineering; Interface Documentation,Stuttgart
+EMP923,Jennifer Maier,Product Management,Cost Modeling; Embedded Motor Control; Modular Actuator Platform,Dingolfing
+EMP924,Katrin Kaiser,Material Science & Testing,Mechatronic System Design; Sales Analytics; ISO/SAE 21434,Berlin
+EMP925,Florian Vogel,Partner Certification & Ecosystem,Interface Documentation; Project Management; Partner Portals,Landshut
+EMP926,Viktor Schwarz,Embedded Software & Controls,Royalty Models; Embedded Motor Control; NVH Optimization,Unterschleissheim
+EMP927,Quirin Beck,Strategy & Innovation,Cyber Resilience Act Compliance; Economies of Scale; Royalty Models,Dingolfing
+EMP928,Julia Bauer,Strategy & Innovation,Embedded Motor Control; Modular Actuator Platform; Change Management,Eisenach
+EMP929,Paul Weber,Material Science & Testing,Digital Twin for Components; Circular Economy; Risk Assessment,Landshut
+EMP930,Clara Hoffmann,Configurator & UX,Ecosystem Strategy; Cyber Resilience Act Compliance; Discount & Promotion Management,Leipzig
+EMP931,Sebastian Beck,Circular Economy & Sustainability,Change Management; LIN Protocol; Interface Documentation,Stuttgart
+EMP932,Erik Richter,Partner Certification & Ecosystem,Risk Assessment; Mechatronic System Design; Trademark & Labeling,Unterschleissheim
+EMP933,Theresa Hoffmann,Quality Assurance,Parsdorf Storage Optimization; Trademark & Labeling; Predictive Disassembly,Dingolfing
+EMP934,Walter Krause,Market Analysis & Pricing,Cloud Architecture; User Documentation; Co-Marketing Programs,Dingolfing
+EMP935,Philipp Huber,Cybersecurity & Vehicle Security,Bundle Configuration Logic; Ordering Automation; Modular Actuator Platform,Landshut
+EMP936,Julian Krause,Material Science & Testing,Ordering Automation; Configurator UX; Fleet Development Components,Landshut
+EMP937,Felicia Müller,Partner Certification & Ecosystem,LIN Protocol; Parts Categorization; Fleet Development Components,Regensburg
+EMP938,Xenia Scholz,Strategy & Innovation,Parts Categorization; Cyber Resilience Act Compliance; Partner Portals,Eisenach
+EMP939,Lorenz Berger,Human Resources,NBC Integration; API Management; Dealer IT Systems,Munich
+EMP940,Robin Simon,IT Infrastructure,Stock Visibility; Economies of Scale; Mechatronic System Design,Leipzig
+EMP941,Luca Schmidt,Cybersecurity & Vehicle Security,Ecosystem Strategy; Fleet Development Components; Embedded Motor Control,Stuttgart
+EMP942,Anna Haas,Systems Integration,User Documentation; Edge Computing; Dealer IT Systems,Leipzig
+EMP943,Julia Kraus,Legal & Compliance,Modular Actuator Platform; ISO/SAE 21434; Sales Analytics,Eisenach
+EMP944,Paul Winter,Quality Assurance,Demand-driven Disassembly; Reuse Process Automation; Partner Portals,Unterschleissheim
+EMP945,Rafael Huber,Material Science & Testing,Part Number Management; Co-Marketing Programs; Quality Standards,Eisenach
+EMP946,Katrin Brandt,Systems Integration,Edge Computing; Quality Standards; Requirements Engineering,Berlin
+EMP947,Sofia Hofmann,Mechatronics & Actuators,Circular Economy; Standardized Interfaces; Embedded Motor Control,Berlin
+EMP948,Bianca Schwarz,Strategy & Innovation,ISO/SAE 21434; NBC Integration; Digital Twin for Components,Stuttgart
+EMP949,Dominik Werner,IT Infrastructure,Cloud Architecture; Embedded Motor Control; Cyber Resilience Act Compliance,Dingolfing
+EMP950,Fabian Kraus,Digital Platform & Portals,Discount & Promotion Management; Vendor Onboarding; Circular Economy,Eisenach
+EMP951,Fabian Hofmann,Market Analysis & Pricing,Data Pipelines; Change Management; Royalty Models,Berlin
+EMP952,Niklas Maier,Finance & Controlling,Configurator UX; Discount & Promotion Management; Fleet Development Components,Landshut
+EMP953,Oskar Hoffmann,Digital Platform & Portals,Interface Documentation; Sustainability KPIs; Royalty Models,Stuttgart
+EMP954,Marcel Richter,Data Engineering & Analytics,Discount & Promotion Management; Ordering Automation; Circular Economy,Dingolfing
+EMP955,Viktor Lang,Mechatronics & Actuators,Partner Portals; Ecosystem Strategy; Fleet Development Components,Regensburg
+EMP956,Katrin Fuchs,DevOps & Platform Engineering,Partner Portals; Power Electronics; Visualization,Landshut
+EMP957,Theresa Wolf,Cybersecurity & Vehicle Security,Cyber Resilience Act Compliance; NVH Optimization; Partner Portals,Munich
+EMP958,Kim Meyer,Embedded Software & Controls,Parsdorf Storage Optimization; Availability & Pricing Transparency; Project Management,Leipzig
+EMP959,Ursula Winter,Digital Platform & Portals,Hardware-Software Co-Design; NVH Optimization; ISO/SAE 21434,Landshut
+EMP960,Oskar Lang,Data Engineering & Analytics,Availability & Pricing Transparency; Modular Actuator Platform; Standardized Interfaces,Leipzig
+EMP961,Paul Schmitt,Configurator & UX,Hardware-Software Co-Design; Demand-driven Disassembly; NBC Integration,Stuttgart
+EMP962,Greta Seidel,IT Infrastructure,Process Optimization; Security Architecture; Power Electronics,Stuttgart
+EMP963,Xenia Schmidt,Finance & Controlling,Process Optimization; Reuse Process Automation; Risk Assessment,Eisenach
+EMP964,Carla Zimmermann,Legal & Compliance,Stock Visibility; Mechatronic System Design; Bundle Configuration Logic,Eisenach
+EMP965,Stefan Moser,Legal & Compliance,Data Pipelines; Ordering Automation; Bundle Configuration Logic,Munich
+EMP966,Julian Zimmermann,Digital Platform & Portals,Project Management; Interface Documentation; Requirements Engineering,Eisenach
+EMP967,Lars Kraus,IT Infrastructure,Part Number Management; Availability & Pricing Transparency; Quality Standards,Unterschleissheim
+EMP968,Rafael Braun,Strategy & Innovation,Cyber Resilience Act Compliance; API Management; Royalty Models,Berlin
+EMP969,Mira Lang,Power Electronics,Dealer IT Systems; Fleet Development Components; Configurator UX,Stuttgart
+EMP970,Valentin Bauer,Data Engineering & Analytics,Testing & Validation; Risk Assessment; Cost Modeling,Leipzig
+EMP971,Heike Bauer,Manufacturing Engineering,Modular Actuator Platform; Partner Certification Programs; Interface Documentation,Berlin
+EMP972,Paula Hofmann,Legal & Compliance,Ecosystem Strategy; Economies of Scale; Vendor Onboarding,Landshut
+EMP973,Kim Moser,Product Management,Ecosystem Strategy; Co-Marketing Programs; Part Number Management,Berlin
+EMP974,Sandy Schreiber,Product Management,LIN Protocol; Cost Modeling; Part Number Management,Regensburg
+EMP975,Petra Berger,Market Analysis & Pricing,Demand-driven Disassembly; Vendor Onboarding; Ordering Automation,Stuttgart
+EMP976,Michael Arnold,Product Management,Project Management; User Documentation; Risk Assessment,Dingolfing
+EMP977,Hannes Schmidt,Finance & Controlling,Reuse Process Automation; Partner Certification Programs; LIN Protocol,Regensburg
+EMP978,Greta Zimmermann,Legal & Compliance,Parsdorf Storage Optimization; Fleet Development Components; NVH Optimization,Berlin
+EMP979,Clara Schmitt,Digital Platform & Portals,User Documentation; Partner Portals; Requirements Engineering,Eisenach
+EMP980,Luca Schmitz,Legal & Compliance,Royalty Models; User Documentation; Risk Assessment,Eisenach
+EMP981,Theresa Müller,Market Analysis & Pricing,Embedded Motor Control; Mechatronic System Design; Project Management,Regensburg
+EMP982,Lena Berger,Digital Platform & Portals,Discount & Promotion Management; Power Electronics; Vendor Onboarding,Landshut
+EMP983,Clara Lang,Procurement Strategy,Interface Documentation; Bundle Configuration Logic; Discount & Promotion Management,Munich
+EMP984,Felicia Vogel,Manufacturing Engineering,Parsdorf Storage Optimization; Hardware-Software Co-Design; Digital Twin for Components,Leipzig
+EMP985,Rafael Simon,Circular Economy & Sustainability,Cloud Architecture; Power Electronics; Hardware-Software Co-Design,Regensburg
+EMP986,Sebastian Franke,Legal & Compliance,Predictive Disassembly; NVH Optimization; Parts Categorization,Landshut
+EMP987,Clara Seidel,Retail Systems Integration,Vendor Onboarding; Circular Economy; Sustainability KPIs,Unterschleissheim
+EMP988,Dominik Wolf,Material Science & Testing,Requirements Engineering; Partner Portals; NBC Integration,Berlin
+EMP989,Zara Lang,Manufacturing Engineering,Partner Portals; Modular Actuator Platform; LIN Protocol,Regensburg
+EMP990,Yannic Müller,Systems Integration,Co-Marketing Programs; LIN Protocol; Modular Actuator Platform,Munich
+EMP991,Greta Fiedler,Cybersecurity & Vehicle Security,Embedded Motor Control; Digital Twin for Components; Sustainability KPIs,Unterschleissheim
+EMP992,Elias Werner,Supply Chain & Logistics,Sustainability KPIs; Dealer IT Systems; Mechatronic System Design,Landshut
+EMP993,Kim Kraus,Market Analysis & Pricing,Project Management; Cloud Architecture; Risk Assessment,Berlin
+EMP994,Ursula Braun,Retail Systems Integration,Edge Computing; Sustainability KPIs; Reuse Process Automation,Stuttgart
+EMP995,Dominik Krause,Data Engineering & Analytics,Ordering Automation; Configurator UX; Embedded Motor Control,Dingolfing
+EMP996,Simon Fuchs,Cybersecurity & Vehicle Security,Partner Certification Programs; Co-Marketing Programs; Data Pipelines,Landshut
+EMP997,Katharina Weber,Finance & Controlling,Bundle Configuration Logic; Ordering Automation; Stock Visibility,Leipzig
+EMP998,Matthias Seidel,Circular Economy & Sustainability,Cyber Resilience Act Compliance; Visualization; Royalty Models,Unterschleissheim
+EMP999,Jonas Vogel,Human Resources,Co-Marketing Programs; Royalty Models; NBC Integration,Unterschleissheim
